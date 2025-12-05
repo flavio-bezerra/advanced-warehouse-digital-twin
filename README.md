@@ -6,6 +6,10 @@ Este é um **Gêmeo Digital (Digital Twin)** de um armazém logístico especiali
 
 O simulador foi calibrado para refletir a realidade de um Centro de Distribuição (CD) de bens de consumo (FMCG), com produtos reais como detergentes, sabão em pó e desinfetantes, respeitando suas dimensões físicas e restrições de paletização.
 
+
+
+![Streamlit Video](streamlit_video.gif)
+
 ## 🚀 Funcionalidades Principais
 
 ### 1. 🧴 Inteligência de Produtos (Cleaning Products)

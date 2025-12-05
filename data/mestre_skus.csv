@@ -1,501 +1,501 @@
 sku_id,abc_class,popularity_score,weight_per_unit_kg,units_per_pallet,pallet_weight_kg,description,category
-SKU_001,C,1.2250967970040025,1.24,68,84.65,Desinfetante,Desinfetante
-SKU_002,C,7.0902953868062015,0.54,107,58.15,Limpador Multiuso,Limpador Multiuso
-SKU_003,A,54.68476199307962,3.02,41,123.88,Sabão em Pó,Sabão em Pó
-SKU_004,C,7.444176516301631,3.18,64,203.51,Água Sanitária,Água Sanitária
-SKU_005,B,21.12762832922651,0.58,110,63.35,Detergente Líquido,Detergente Líquido
-SKU_006,C,4.062254648661927,1.86,61,113.54,Sabão em Pó,Sabão em Pó
-SKU_007,A,68.99636503186687,1.85,98,181.05,Desinfetante,Desinfetante
-SKU_008,B,11.738017716923888,3.61,69,249.0,Amaciante,Amaciante
-SKU_009,B,32.08162525092908,3.47,73,253.61,Água Sanitária,Água Sanitária
-SKU_010,C,7.341146525934311,0.57,149,84.35,Detergente Líquido,Detergente Líquido
-SKU_011,B,13.1916790769451,4.47,64,285.82,Sabão em Pó,Sabão em Pó
-SKU_012,B,35.42737777057601,1.16,82,95.34,Desinfetante,Desinfetante
-SKU_013,B,20.679112881964535,3.59,88,316.11,Água Sanitária,Água Sanitária
-SKU_014,C,5.807258893267372,1.65,64,105.83,Sabão em Pó,Sabão em Pó
-SKU_015,B,47.01564718484871,3.23,70,225.95,Água Sanitária,Água Sanitária
-SKU_016,C,7.983999203916204,4.29,60,257.23,Sabão em Pó,Sabão em Pó
-SKU_017,B,12.64754420846189,0.94,100,93.82,Limpador Multiuso,Limpador Multiuso
-SKU_018,B,29.969250379691093,2.84,66,187.14,Água Sanitária,Água Sanitária
-SKU_019,A,87.24944910458032,0.63,117,73.87,Limpador Multiuso,Limpador Multiuso
-SKU_020,B,33.34131699782625,1.22,68,82.91,Desinfetante,Desinfetante
-SKU_021,C,1.818184709564145,0.59,109,63.89,Detergente Líquido,Detergente Líquido
-SKU_022,C,8.128714279266678,3.79,52,197.04,Amaciante,Amaciante
-SKU_023,B,49.84485520960387,0.63,115,71.96,Limpador Multiuso,Limpador Multiuso
-SKU_024,C,1.1033291974853767,1.46,84,122.49,Água Sanitária,Água Sanitária
-SKU_025,C,7.917388593917013,1.11,87,96.71,Desinfetante,Desinfetante
-SKU_026,A,50.16226580508646,4.5,66,297.23,Água Sanitária,Água Sanitária
-SKU_027,C,7.857659791468581,0.96,120,114.76,Limpador Multiuso,Limpador Multiuso
-SKU_028,B,35.557979794640204,0.6,103,61.74,Limpador Multiuso,Limpador Multiuso
-SKU_029,C,5.854411271076632,0.96,118,113.19,Limpador Multiuso,Limpador Multiuso
-SKU_030,B,10.779069695433293,1.88,79,148.42,Desinfetante,Desinfetante
-SKU_031,B,19.634863697889323,0.97,85,82.75,Limpador Multiuso,Limpador Multiuso
-SKU_032,C,8.344209280780797,0.88,88,77.7,Limpador Multiuso,Limpador Multiuso
-SKU_033,C,9.521638117344917,2.06,78,160.7,Sabão em Pó,Sabão em Pó
-SKU_034,B,18.47192821768328,0.88,92,80.74,Limpador Multiuso,Limpador Multiuso
-SKU_035,C,4.590930699976862,3.6,78,280.76,Água Sanitária,Água Sanitária
-SKU_036,C,5.063375272520168,1.9,61,115.83,Sabão em Pó,Sabão em Pó
-SKU_037,A,77.696076121224,0.61,84,51.25,Limpador Multiuso,Limpador Multiuso
-SKU_038,C,1.5298639018869107,0.59,121,71.46,Detergente Líquido,Detergente Líquido
-SKU_039,A,61.90023171844976,2.94,84,247.1,Água Sanitária,Água Sanitária
-SKU_040,A,96.77571202903354,0.79,95,74.87,Limpador Multiuso,Limpador Multiuso
-SKU_041,C,8.26747297989979,1.38,67,92.28,Sabão em Pó,Sabão em Pó
-SKU_042,B,26.444091041989523,1.22,56,68.13,Água Sanitária,Água Sanitária
-SKU_043,A,86.41067942205913,0.52,112,58.78,Detergente Líquido,Detergente Líquido
-SKU_044,C,2.26164067385297,2.11,55,116.28,Sabão em Pó,Sabão em Pó
-SKU_045,C,1.6784639953686042,0.55,114,62.58,Limpador Multiuso,Limpador Multiuso
-SKU_046,C,9.72096631556276,1.67,71,118.23,Sabão em Pó,Sabão em Pó
-SKU_047,B,44.58601576120862,0.52,100,51.65,Detergente Líquido,Detergente Líquido
-SKU_048,C,3.3868275235493677,2.86,62,177.06,Amaciante,Amaciante
-SKU_049,C,9.958804205434424,0.83,111,92.23,Limpador Multiuso,Limpador Multiuso
-SKU_050,A,64.83539127472821,0.56,134,74.76,Detergente Líquido,Detergente Líquido
-SKU_051,A,65.68024048848646,0.56,132,73.71,Detergente Líquido,Detergente Líquido
-SKU_052,C,5.7801352174348715,0.6,105,62.59,Detergente Líquido,Detergente Líquido
-SKU_053,C,1.6166919943341311,0.57,115,65.26,Detergente Líquido,Detergente Líquido
-SKU_054,B,47.66384508916357,0.62,118,73.53,Limpador Multiuso,Limpador Multiuso
-SKU_055,A,54.09917027474378,3.33,83,276.78,Água Sanitária,Água Sanitária
-SKU_056,B,20.43062782414531,3.86,65,251.21,Água Sanitária,Água Sanitária
-SKU_057,B,15.235131285098259,2.2,70,154.0,Água Sanitária,Água Sanitária
-SKU_058,C,9.42160858700341,0.55,136,74.23,Detergente Líquido,Detergente Líquido
-SKU_059,C,1.659346489896697,3.02,48,145.13,Sabão em Pó,Sabão em Pó
-SKU_060,C,8.927777563177955,2.48,50,123.91,Sabão em Pó,Sabão em Pó
-SKU_061,B,31.72871849046347,1.61,93,149.89,Desinfetante,Desinfetante
-SKU_062,A,90.85520675577308,1.93,66,127.5,Desinfetante,Desinfetante
-SKU_063,C,2.2086200295403096,0.59,147,86.58,Detergente Líquido,Detergente Líquido
-SKU_064,C,3.451133910833347,0.61,101,61.14,Limpador Multiuso,Limpador Multiuso
-SKU_065,B,35.36951835540319,1.51,76,114.41,Desinfetante,Desinfetante
-SKU_066,C,8.614933419653699,0.56,117,65.92,Detergente Líquido,Detergente Líquido
-SKU_067,A,66.67782693025441,3.55,56,198.71,Sabão em Pó,Sabão em Pó
-SKU_068,A,72.09177559304253,2.71,50,135.54,Água Sanitária,Água Sanitária
-SKU_069,A,97.25254695233195,4.62,84,387.72,Água Sanitária,Água Sanitária
-SKU_070,A,68.46079922560959,0.57,88,50.52,Limpador Multiuso,Limpador Multiuso
-SKU_071,A,68.2325757663628,0.59,113,66.66,Detergente Líquido,Detergente Líquido
-SKU_072,C,7.002400695719887,1.78,86,153.09,Desinfetante,Desinfetante
-SKU_073,C,7.745298500291853,4.46,51,227.38,Sabão em Pó,Sabão em Pó
-SKU_074,C,1.2230772570836985,4.7,76,357.04,Água Sanitária,Água Sanitária
-SKU_075,C,8.776576255377515,2.07,46,95.09,Sabão em Pó,Sabão em Pó
-SKU_076,B,11.548984306631457,2.67,66,176.04,Amaciante,Amaciante
-SKU_077,C,4.1469258200132675,1.89,52,98.37,Sabão em Pó,Sabão em Pó
-SKU_078,B,21.144122440920157,0.6,117,69.81,Detergente Líquido,Detergente Líquido
-SKU_079,B,30.376227021121494,4.92,84,413.67,Água Sanitária,Água Sanitária
-SKU_080,B,11.104021404785435,1.18,76,89.57,Desinfetante,Desinfetante
-SKU_081,A,79.82856274938723,1.73,80,138.28,Desinfetante,Desinfetante
-SKU_082,B,49.3694339726636,0.54,136,73.24,Detergente Líquido,Detergente Líquido
-SKU_083,A,52.21932668566156,2.01,69,138.35,Amaciante,Amaciante
-SKU_084,C,7.18171432223074,3.95,62,244.79,Água Sanitária,Água Sanitária
-SKU_085,B,12.798952445052407,4.68,89,416.79,Água Sanitária,Água Sanitária
-SKU_086,B,43.92061118025342,4.6,82,377.22,Água Sanitária,Água Sanitária
-SKU_087,B,26.335716344768674,4.09,57,233.22,Amaciante,Amaciante
-SKU_088,A,71.02231668864542,4.03,68,274.17,Amaciante,Amaciante
-SKU_089,A,78.45526274329046,3.64,40,145.75,Amaciante,Amaciante
-SKU_090,B,18.407307395305676,0.8,100,80.33,Limpador Multiuso,Limpador Multiuso
-SKU_091,B,27.686391972192297,3.04,50,152.23,Sabão em Pó,Sabão em Pó
-SKU_092,C,3.554077644937247,3.53,71,250.76,Água Sanitária,Água Sanitária
-SKU_093,A,97.59998312262377,3.69,54,199.32,Sabão em Pó,Sabão em Pó
-SKU_094,C,2.326185660211954,0.52,130,68.18,Detergente Líquido,Detergente Líquido
-SKU_095,C,7.916404051001772,3.24,60,194.6,Amaciante,Amaciante
-SKU_096,C,7.465113239490898,3.48,47,163.71,Amaciante,Amaciante
-SKU_097,A,84.38112065402598,0.58,114,65.87,Detergente Líquido,Detergente Líquido
-SKU_098,A,97.898302113977,0.73,115,84.21,Limpador Multiuso,Limpador Multiuso
-SKU_099,B,43.93345389406639,2.4,54,129.6,Amaciante,Amaciante
-SKU_100,C,9.891032077598032,0.66,108,71.13,Limpador Multiuso,Limpador Multiuso
-SKU_101,C,7.4734656514837035,0.71,115,82.04,Limpador Multiuso,Limpador Multiuso
-SKU_102,B,16.366316301719973,3.35,64,214.41,Amaciante,Amaciante
-SKU_103,B,35.50645747104625,0.74,95,70.52,Limpador Multiuso,Limpador Multiuso
-SKU_104,B,13.099334154589432,1.23,81,99.99,Desinfetante,Desinfetante
-SKU_105,B,31.606088900738257,1.6,64,102.61,Sabão em Pó,Sabão em Pó
-SKU_106,C,7.35777227525097,0.54,121,65.52,Detergente Líquido,Detergente Líquido
-SKU_107,C,4.741968106928404,4.33,64,277.22,Sabão em Pó,Sabão em Pó
-SKU_108,C,6.256714727838027,1.08,86,92.72,Água Sanitária,Água Sanitária
-SKU_109,B,10.235843343359722,1.3,84,109.08,Desinfetante,Desinfetante
-SKU_110,C,9.580873046230957,3.61,63,227.72,Amaciante,Amaciante
-SKU_111,C,6.429273300471172,2.95,57,168.32,Sabão em Pó,Sabão em Pó
-SKU_112,B,11.160992797868609,1.67,85,141.85,Desinfetante,Desinfetante
-SKU_113,C,8.564550967563028,4.92,74,364.29,Sabão em Pó,Sabão em Pó
-SKU_114,A,69.70101281698524,0.83,85,70.68,Limpador Multiuso,Limpador Multiuso
-SKU_115,C,2.221295385075078,2.55,48,122.17,Amaciante,Amaciante
-SKU_116,B,18.466411368459262,1.34,84,112.35,Desinfetante,Desinfetante
-SKU_117,B,48.04816479442247,2.76,42,115.79,Amaciante,Amaciante
-SKU_118,B,39.960970443314025,0.6,122,73.2,Detergente Líquido,Detergente Líquido
-SKU_119,B,12.744734818110777,1.16,51,59.21,Água Sanitária,Água Sanitária
-SKU_120,C,2.7942461412627964,0.56,115,64.65,Detergente Líquido,Detergente Líquido
-SKU_121,A,83.47294223099553,0.97,109,106.15,Limpador Multiuso,Limpador Multiuso
-SKU_122,C,7.902082885206167,3.42,47,160.91,Sabão em Pó,Sabão em Pó
-SKU_123,C,2.4738922915047925,1.11,61,67.59,Desinfetante,Desinfetante
-SKU_124,C,6.1821705557117275,3.19,62,197.78,Amaciante,Amaciante
-SKU_125,A,79.60489306249261,1.97,69,136.03,Água Sanitária,Água Sanitária
-SKU_126,C,6.403704533351597,0.58,136,78.83,Detergente Líquido,Detergente Líquido
-SKU_127,C,4.124833887776041,3.98,42,167.35,Amaciante,Amaciante
-SKU_128,C,4.071080573751549,4.47,43,192.08,Amaciante,Amaciante
-SKU_129,B,24.487521539802877,4.12,53,218.46,Amaciante,Amaciante
-SKU_130,A,76.08733734692399,2.08,84,174.75,Água Sanitária,Água Sanitária
-SKU_131,C,5.183863944710571,3.37,70,235.89,Água Sanitária,Água Sanitária
-SKU_132,C,8.47657917001543,0.53,128,67.57,Detergente Líquido,Detergente Líquido
-SKU_133,B,28.588338664129267,0.83,101,84.24,Limpador Multiuso,Limpador Multiuso
-SKU_134,A,92.54764181562295,2.95,62,182.91,Sabão em Pó,Sabão em Pó
-SKU_135,C,4.0630495884785525,0.85,97,82.51,Limpador Multiuso,Limpador Multiuso
-SKU_136,C,5.649645265434407,1.34,66,88.6,Sabão em Pó,Sabão em Pó
-SKU_137,B,40.326586139298655,2.9,81,235.25,Água Sanitária,Água Sanitária
-SKU_138,B,10.689730373934907,1.22,75,91.62,Desinfetante,Desinfetante
-SKU_139,B,33.26222341329469,3.66,51,186.68,Amaciante,Amaciante
-SKU_140,B,39.83741746854439,1.35,89,120.31,Desinfetante,Desinfetante
-SKU_141,B,20.05614704803766,0.57,120,68.66,Detergente Líquido,Detergente Líquido
-SKU_142,A,76.79319826918749,1.74,63,109.66,Água Sanitária,Água Sanitária
-SKU_143,C,3.488496642718203,0.99,113,111.68,Limpador Multiuso,Limpador Multiuso
-SKU_144,C,9.824595674162618,2.18,63,137.65,Sabão em Pó,Sabão em Pó
-SKU_145,A,50.70741836280319,0.56,82,46.19,Limpador Multiuso,Limpador Multiuso
-SKU_146,C,5.980230701187475,4.78,90,429.87,Água Sanitária,Água Sanitária
-SKU_147,C,5.41790825071401,0.56,130,72.46,Detergente Líquido,Detergente Líquido
-SKU_148,B,23.628237302411694,0.53,130,68.28,Detergente Líquido,Detergente Líquido
-SKU_149,A,53.26717175569662,2.22,60,133.33,Amaciante,Amaciante
-SKU_150,C,2.365543062558608,0.97,85,82.84,Limpador Multiuso,Limpador Multiuso
-SKU_151,C,2.0660640599031543,3.82,65,248.23,Amaciante,Amaciante
-SKU_152,C,7.981241857283956,3.35,54,180.98,Amaciante,Amaciante
-SKU_153,B,33.54100554884411,2.92,59,172.05,Amaciante,Amaciante
-SKU_154,A,98.00543887171496,0.59,113,67.21,Detergente Líquido,Detergente Líquido
-SKU_155,C,3.381815127610067,0.52,111,57.24,Detergente Líquido,Detergente Líquido
-SKU_156,C,2.408793538988243,3.35,59,197.74,Amaciante,Amaciante
-SKU_157,B,11.305594215236972,1.71,89,151.92,Desinfetante,Desinfetante
-SKU_158,A,61.67119030800128,1.79,100,178.78,Desinfetante,Desinfetante
-SKU_159,C,8.235151122532905,2.7,74,199.84,Sabão em Pó,Sabão em Pó
-SKU_160,B,15.959576043013168,1.83,64,116.9,Desinfetante,Desinfetante
-SKU_161,A,89.63142831162058,0.87,116,101.44,Limpador Multiuso,Limpador Multiuso
-SKU_162,C,4.952381038063637,4.07,62,252.09,Amaciante,Amaciante
-SKU_163,B,20.889847725770526,0.75,85,63.49,Limpador Multiuso,Limpador Multiuso
-SKU_164,C,9.004806003632083,2.29,66,151.09,Água Sanitária,Água Sanitária
-SKU_165,A,61.446220786091345,4.34,86,373.57,Água Sanitária,Água Sanitária
-SKU_166,C,1.1867091059398032,4.29,86,368.57,Água Sanitária,Água Sanitária
-SKU_167,A,87.81344152062786,3.56,54,192.07,Amaciante,Amaciante
-SKU_168,C,2.6334023250081335,0.72,111,79.69,Limpador Multiuso,Limpador Multiuso
-SKU_169,C,5.230093554643165,3.0,61,183.0,Amaciante,Amaciante
-SKU_170,A,58.041242632941774,4.08,49,199.97,Amaciante,Amaciante
-SKU_171,C,4.604070293322907,0.52,85,44.06,Limpador Multiuso,Limpador Multiuso
-SKU_172,B,22.93095145103979,4.59,66,303.25,Amaciante,Amaciante
-SKU_173,C,6.918943478348161,0.73,83,60.67,Limpador Multiuso,Limpador Multiuso
-SKU_174,A,68.08896795758376,3.88,64,248.08,Amaciante,Amaciante
-SKU_175,A,63.35281191364662,4.71,68,320.33,Sabão em Pó,Sabão em Pó
-SKU_176,C,5.362406172549983,0.6,138,82.43,Detergente Líquido,Detergente Líquido
-SKU_177,C,7.388045425902332,1.55,95,147.33,Desinfetante,Desinfetante
-SKU_178,B,18.988026378231385,0.55,107,58.44,Detergente Líquido,Detergente Líquido
-SKU_179,C,2.3857401198549524,2.17,67,145.22,Água Sanitária,Água Sanitária
-SKU_180,B,29.299983078314252,2.73,57,155.68,Amaciante,Amaciante
-SKU_181,A,59.53051854739641,0.75,88,66.36,Limpador Multiuso,Limpador Multiuso
-SKU_182,C,3.486226625398369,3.02,65,196.28,Amaciante,Amaciante
-SKU_183,C,8.384945258670205,1.73,97,167.43,Desinfetante,Desinfetante
-SKU_184,C,6.939466777494275,2.79,70,195.03,Sabão em Pó,Sabão em Pó
-SKU_185,B,32.07669668283244,0.69,100,68.86,Limpador Multiuso,Limpador Multiuso
-SKU_186,C,9.82697168199335,3.29,54,177.51,Sabão em Pó,Sabão em Pó
-SKU_187,C,4.696975859946203,1.74,84,146.56,Desinfetante,Desinfetante
-SKU_188,B,36.54755317938139,4.92,81,398.79,Água Sanitária,Água Sanitária
-SKU_189,C,2.136216428284498,0.67,86,57.28,Limpador Multiuso,Limpador Multiuso
-SKU_190,C,4.962755887936094,0.96,80,76.42,Limpador Multiuso,Limpador Multiuso
-SKU_191,C,4.689807577717279,4.88,54,263.51,Água Sanitária,Água Sanitária
-SKU_192,B,48.76814522296869,1.62,85,137.98,Desinfetante,Desinfetante
-SKU_193,C,8.665887631156224,4.44,74,328.37,Água Sanitária,Água Sanitária
-SKU_194,C,6.64119261107189,4.62,41,189.3,Amaciante,Amaciante
-SKU_195,C,3.1129321879181937,4.68,64,299.76,Água Sanitária,Água Sanitária
-SKU_196,C,4.905743247308131,0.58,145,83.53,Detergente Líquido,Detergente Líquido
-SKU_197,C,4.993106964955352,2.2,51,112.09,Água Sanitária,Água Sanitária
-SKU_198,A,89.8071732581106,1.36,87,118.19,Desinfetante,Desinfetante
-SKU_199,A,76.558315907438,0.84,91,76.52,Limpador Multiuso,Limpador Multiuso
-SKU_200,A,53.948417532999734,3.86,47,181.38,Amaciante,Amaciante
-SKU_201,B,33.32628522608212,2.84,56,159.3,Sabão em Pó,Sabão em Pó
-SKU_202,B,36.67362869065923,4.7,61,286.92,Amaciante,Amaciante
-SKU_203,C,1.664757102545857,1.99,79,157.02,Desinfetante,Desinfetante
-SKU_204,C,4.818780446148079,1.46,79,115.09,Desinfetante,Desinfetante
-SKU_205,A,69.23466244836727,2.32,52,120.64,Amaciante,Amaciante
-SKU_206,C,6.173307371607805,2.18,75,163.57,Água Sanitária,Água Sanitária
-SKU_207,B,32.63716067822796,4.11,53,218.0,Água Sanitária,Água Sanitária
-SKU_208,C,7.7065493872057305,1.78,74,131.4,Desinfetante,Desinfetante
-SKU_209,C,4.170888602517849,1.76,66,116.19,Água Sanitária,Água Sanitária
-SKU_210,C,7.48835539003638,3.72,58,215.96,Água Sanitária,Água Sanitária
-SKU_211,C,9.130633336656711,1.16,78,90.3,Água Sanitária,Água Sanitária
-SKU_212,A,68.24306165142349,1.36,58,78.91,Sabão em Pó,Sabão em Pó
-SKU_213,B,26.620123736751097,1.53,74,113.12,Sabão em Pó,Sabão em Pó
-SKU_214,C,4.292717775536115,0.96,90,86.11,Limpador Multiuso,Limpador Multiuso
-SKU_215,B,42.98759250169629,4.9,49,240.21,Amaciante,Amaciante
-SKU_216,C,4.048437284216977,0.55,104,56.87,Detergente Líquido,Detergente Líquido
-SKU_217,A,98.32501047313761,3.9,75,292.27,Água Sanitária,Água Sanitária
-SKU_218,C,8.241288796185056,1.09,85,92.68,Desinfetante,Desinfetante
-SKU_219,A,76.82861541345295,3.11,63,195.66,Amaciante,Amaciante
-SKU_220,C,6.261040824869495,4.76,56,266.63,Água Sanitária,Água Sanitária
-SKU_221,C,5.243291811832948,0.94,115,108.34,Limpador Multiuso,Limpador Multiuso
-SKU_222,B,34.40328783433652,1.25,79,98.98,Água Sanitária,Água Sanitária
-SKU_223,C,3.719711570763252,2.35,41,96.35,Amaciante,Amaciante
-SKU_224,C,3.7392812592040467,2.35,47,110.37,Amaciante,Amaciante
-SKU_225,C,2.2209764383570287,3.11,70,217.91,Amaciante,Amaciante
-SKU_226,C,9.51376677201489,3.76,63,237.01,Amaciante,Amaciante
-SKU_227,A,70.74422637184034,0.58,139,81.09,Detergente Líquido,Detergente Líquido
-SKU_228,B,48.06086101524238,0.57,113,64.3,Detergente Líquido,Detergente Líquido
-SKU_229,B,48.02220679405708,1.1,83,91.25,Desinfetante,Desinfetante
-SKU_230,C,9.800582765068421,1.06,77,81.66,Desinfetante,Desinfetante
-SKU_231,A,56.10798595436319,2.28,46,104.65,Amaciante,Amaciante
-SKU_232,C,6.374313635675906,0.51,121,61.11,Detergente Líquido,Detergente Líquido
-SKU_233,B,15.036955412321715,0.6,115,69.3,Limpador Multiuso,Limpador Multiuso
-SKU_234,B,18.63805407674699,2.31,49,113.4,Sabão em Pó,Sabão em Pó
-SKU_235,C,6.36383471656978,1.86,69,128.23,Desinfetante,Desinfetante
-SKU_236,C,5.861939111768363,1.44,41,59.03,Sabão em Pó,Sabão em Pó
-SKU_237,A,67.91211396082664,3.36,41,137.57,Sabão em Pó,Sabão em Pó
-SKU_238,A,52.61995089305883,2.68,57,152.98,Água Sanitária,Água Sanitária
-SKU_239,C,5.286213688809252,1.51,66,99.87,Desinfetante,Desinfetante
-SKU_240,B,18.8619902567314,0.52,113,58.95,Limpador Multiuso,Limpador Multiuso
-SKU_241,B,35.73362736821955,0.51,130,65.79,Detergente Líquido,Detergente Líquido
-SKU_242,C,4.836462573519926,0.55,128,70.28,Detergente Líquido,Detergente Líquido
-SKU_243,A,54.0395238705396,0.57,88,50.53,Limpador Multiuso,Limpador Multiuso
-SKU_244,B,35.323068972040616,0.86,104,89.03,Limpador Multiuso,Limpador Multiuso
-SKU_245,C,5.775011536881921,3.52,53,186.38,Amaciante,Amaciante
-SKU_246,A,85.08897092730331,3.6,85,306.31,Água Sanitária,Água Sanitária
-SKU_247,C,2.935207596947472,4.66,53,247.21,Amaciante,Amaciante
-SKU_248,B,28.139956116297892,4.19,50,209.44,Amaciante,Amaciante
-SKU_249,B,36.60431452241235,1.95,90,175.82,Desinfetante,Desinfetante
-SKU_250,A,91.58859442374273,0.54,147,79.85,Detergente Líquido,Detergente Líquido
-SKU_251,C,8.305923567496531,0.53,115,60.95,Limpador Multiuso,Limpador Multiuso
-SKU_252,C,7.030119382590662,3.06,61,186.71,Amaciante,Amaciante
-SKU_253,C,4.806431701874951,1.21,68,81.99,Água Sanitária,Água Sanitária
-SKU_254,C,4.16481567123834,0.75,89,67.08,Limpador Multiuso,Limpador Multiuso
-SKU_255,C,3.0182038219680902,0.54,135,72.23,Detergente Líquido,Detergente Líquido
-SKU_256,B,40.50422527747399,0.61,107,65.6,Limpador Multiuso,Limpador Multiuso
-SKU_257,C,9.770919419131374,0.81,115,92.78,Limpador Multiuso,Limpador Multiuso
-SKU_258,A,96.45421454974682,2.07,61,126.26,Água Sanitária,Água Sanitária
-SKU_259,B,40.496380719239916,1.35,71,95.92,Desinfetante,Desinfetante
-SKU_260,C,6.096889852852386,2.21,63,139.15,Amaciante,Amaciante
-SKU_261,C,1.275913885428153,3.12,74,231.02,Água Sanitária,Água Sanitária
-SKU_262,B,23.63583927077331,1.31,80,104.93,Desinfetante,Desinfetante
-SKU_263,C,6.108342009529576,0.59,109,64.13,Detergente Líquido,Detergente Líquido
-SKU_264,A,80.89190909630153,1.33,78,103.45,Água Sanitária,Água Sanitária
-SKU_265,C,5.370955344018967,3.24,46,149.16,Amaciante,Amaciante
-SKU_266,C,2.024357572991816,2.33,61,142.29,Amaciante,Amaciante
-SKU_267,C,5.379694780278258,2.23,64,142.96,Água Sanitária,Água Sanitária
-SKU_268,B,33.97299827777802,0.52,113,58.81,Detergente Líquido,Detergente Líquido
-SKU_269,C,7.877448061851229,1.33,60,79.69,Desinfetante,Desinfetante
-SKU_270,B,27.22620045414412,2.52,54,136.12,Sabão em Pó,Sabão em Pó
-SKU_271,C,8.500187821778905,1.07,62,66.47,Desinfetante,Desinfetante
-SKU_272,B,28.390170014251,0.59,136,79.72,Detergente Líquido,Detergente Líquido
-SKU_273,B,26.176915380209373,2.67,57,152.23,Água Sanitária,Água Sanitária
-SKU_274,B,48.647987641325045,4.21,79,332.22,Sabão em Pó,Sabão em Pó
-SKU_275,B,37.5844016432076,1.09,66,71.82,Desinfetante,Desinfetante
-SKU_276,B,33.55485153211647,0.54,99,53.39,Limpador Multiuso,Limpador Multiuso
-SKU_277,C,2.994148530048262,1.31,80,104.44,Sabão em Pó,Sabão em Pó
-SKU_278,A,75.4976031161486,1.35,69,93.23,Desinfetante,Desinfetante
-SKU_279,B,15.857768731107775,1.69,49,83.01,Sabão em Pó,Sabão em Pó
-SKU_280,C,6.899581094668652,4.81,80,384.41,Sabão em Pó,Sabão em Pó
-SKU_281,B,40.177833009879436,0.72,116,84.04,Limpador Multiuso,Limpador Multiuso
-SKU_282,C,9.878787529622734,1.86,100,186.42,Desinfetante,Desinfetante
-SKU_283,B,27.59051265367456,3.33,49,163.0,Amaciante,Amaciante
-SKU_284,C,6.322777811479189,1.51,79,119.08,Desinfetante,Desinfetante
-SKU_285,B,11.504289822843683,1.83,64,117.23,Desinfetante,Desinfetante
-SKU_286,C,9.796316792798342,0.56,132,74.12,Detergente Líquido,Detergente Líquido
-SKU_287,B,33.21317629644762,4.58,78,357.51,Água Sanitária,Água Sanitária
-SKU_288,C,6.144910178084203,2.29,70,160.03,Sabão em Pó,Sabão em Pó
-SKU_289,C,9.619501229799265,2.31,68,157.11,Amaciante,Amaciante
-SKU_290,C,9.841470229840576,0.55,111,61.1,Detergente Líquido,Detergente Líquido
-SKU_291,A,85.38108521616394,3.57,59,210.76,Amaciante,Amaciante
-SKU_292,A,68.64259910506635,1.39,81,112.38,Desinfetante,Desinfetante
-SKU_293,C,1.4712896578240564,3.59,54,193.82,Água Sanitária,Água Sanitária
-SKU_294,B,32.31852849673609,2.85,63,179.7,Amaciante,Amaciante
-SKU_295,C,9.67969025788519,0.94,101,94.6,Limpador Multiuso,Limpador Multiuso
-SKU_296,A,83.18060530030294,1.31,85,111.37,Desinfetante,Desinfetante
-SKU_297,A,85.4417007185527,0.53,124,65.84,Detergente Líquido,Detergente Líquido
-SKU_298,C,3.9562889882822563,3.68,73,268.67,Sabão em Pó,Sabão em Pó
-SKU_299,A,83.52280200399696,0.68,103,70.13,Limpador Multiuso,Limpador Multiuso
-SKU_300,B,48.04677254384537,1.95,91,177.24,Desinfetante,Desinfetante
-SKU_301,A,99.99883105515143,1.31,46,60.2,Sabão em Pó,Sabão em Pó
-SKU_302,C,5.85793682572304,4.53,52,235.81,Água Sanitária,Água Sanitária
-SKU_303,C,8.887534952884677,0.57,104,58.81,Limpador Multiuso,Limpador Multiuso
-SKU_304,A,59.042298358434834,4.08,60,245.06,Água Sanitária,Água Sanitária
-SKU_305,C,1.393231851590629,1.68,75,125.73,Desinfetante,Desinfetante
-SKU_306,C,6.495358799132342,4.14,64,264.65,Água Sanitária,Água Sanitária
-SKU_307,C,3.7852110690651064,4.71,46,216.75,Amaciante,Amaciante
-SKU_308,B,47.88520680976492,3.39,49,165.87,Amaciante,Amaciante
-SKU_309,C,5.52616022338821,4.9,66,323.32,Amaciante,Amaciante
-SKU_310,A,80.23317237883751,1.05,90,94.7,Desinfetante,Desinfetante
-SKU_311,C,5.990866708819881,0.57,133,75.96,Detergente Líquido,Detergente Líquido
-SKU_312,C,3.565567126533956,2.09,72,150.56,Sabão em Pó,Sabão em Pó
-SKU_313,A,71.87362800974904,4.27,62,264.54,Sabão em Pó,Sabão em Pó
-SKU_314,C,4.7340721523710485,3.51,47,164.78,Amaciante,Amaciante
-SKU_315,B,13.264217488441666,1.11,46,51.19,Sabão em Pó,Sabão em Pó
-SKU_316,C,6.8496461586476345,1.55,58,89.92,Sabão em Pó,Sabão em Pó
-SKU_317,C,5.252094397430478,4.04,70,282.48,Sabão em Pó,Sabão em Pó
-SKU_318,B,10.210047932224718,0.5,113,56.71,Detergente Líquido,Detergente Líquido
-SKU_319,C,5.939238208994519,3.44,77,264.54,Água Sanitária,Água Sanitária
-SKU_320,A,64.40507890196153,1.12,75,84.14,Desinfetante,Desinfetante
-SKU_321,B,41.755964345577524,2.19,66,144.44,Amaciante,Amaciante
-SKU_322,C,6.370651385370523,0.56,136,76.59,Detergente Líquido,Detergente Líquido
-SKU_323,B,15.743073609850402,2.0,51,102.24,Amaciante,Amaciante
-SKU_324,B,26.662703808341593,3.67,83,304.85,Água Sanitária,Água Sanitária
-SKU_325,C,1.6091139061796143,0.77,112,86.47,Limpador Multiuso,Limpador Multiuso
-SKU_326,C,4.514083593040577,2.13,52,110.79,Amaciante,Amaciante
-SKU_327,C,3.2828523496229147,0.54,104,55.71,Detergente Líquido,Detergente Líquido
-SKU_328,B,39.31764085802567,1.41,87,123.08,Água Sanitária,Água Sanitária
-SKU_329,C,3.992667475347864,0.54,121,64.76,Detergente Líquido,Detergente Líquido
-SKU_330,C,2.575802143465376,2.86,80,228.68,Água Sanitária,Água Sanitária
-SKU_331,C,8.303479136628457,0.57,129,73.74,Detergente Líquido,Detergente Líquido
-SKU_332,A,60.079549641835044,4.54,60,272.59,Sabão em Pó,Sabão em Pó
-SKU_333,C,5.638452303290489,0.74,82,60.41,Limpador Multiuso,Limpador Multiuso
-SKU_334,C,2.719930876605198,1.86,63,117.31,Desinfetante,Desinfetante
-SKU_335,C,3.987322177432101,0.58,127,73.65,Detergente Líquido,Detergente Líquido
-SKU_336,C,7.689769349676591,3.02,45,135.77,Amaciante,Amaciante
-SKU_337,B,29.90093569974509,0.63,85,53.84,Limpador Multiuso,Limpador Multiuso
-SKU_338,C,1.7103430544992109,1.0,91,90.78,Limpador Multiuso,Limpador Multiuso
-SKU_339,C,3.890902853931346,0.53,118,62.87,Detergente Líquido,Detergente Líquido
-SKU_340,B,34.104865109223994,2.5,54,135.0,Amaciante,Amaciante
-SKU_341,B,11.694206514005181,1.61,87,140.49,Desinfetante,Desinfetante
-SKU_342,B,49.20109116777117,0.51,140,71.05,Detergente Líquido,Detergente Líquido
-SKU_343,B,30.523440778582085,3.72,51,189.6,Água Sanitária,Água Sanitária
-SKU_344,A,80.37864516604276,2.1,42,88.38,Amaciante,Amaciante
-SKU_345,B,35.80651502797856,1.38,96,132.75,Desinfetante,Desinfetante
-SKU_346,A,57.67190816963541,4.85,51,247.17,Amaciante,Amaciante
-SKU_347,B,13.075417153215936,3.12,65,202.66,Sabão em Pó,Sabão em Pó
-SKU_348,B,21.147590651992452,0.5,111,55.79,Detergente Líquido,Detergente Líquido
-SKU_349,B,25.47949520157054,0.56,96,53.65,Limpador Multiuso,Limpador Multiuso
-SKU_350,C,2.9311338288134774,0.64,111,71.35,Limpador Multiuso,Limpador Multiuso
-SKU_351,B,15.42913670922109,0.55,145,79.05,Detergente Líquido,Detergente Líquido
-SKU_352,B,13.511629644189242,4.87,70,340.92,Água Sanitária,Água Sanitária
-SKU_353,C,7.385864381376293,0.77,99,76.34,Limpador Multiuso,Limpador Multiuso
-SKU_354,C,7.4062819360649135,3.55,73,259.21,Água Sanitária,Água Sanitária
-SKU_355,C,2.092262095706112,4.17,55,229.25,Sabão em Pó,Sabão em Pó
-SKU_356,C,1.2365562412743913,0.79,109,85.69,Limpador Multiuso,Limpador Multiuso
-SKU_357,C,5.964822405337848,0.94,84,79.14,Limpador Multiuso,Limpador Multiuso
-SKU_358,B,49.983801757375474,2.91,76,221.51,Água Sanitária,Água Sanitária
-SKU_359,C,8.410054595575517,0.51,120,61.5,Detergente Líquido,Detergente Líquido
-SKU_360,C,5.049770460966965,3.07,58,178.03,Água Sanitária,Água Sanitária
-SKU_361,C,8.022366359544776,3.35,58,194.37,Água Sanitária,Água Sanitária
-SKU_362,B,46.42849083787549,0.58,133,77.56,Detergente Líquido,Detergente Líquido
-SKU_363,A,58.23285399450621,1.93,74,143.17,Desinfetante,Desinfetante
-SKU_364,B,47.63616219726139,1.85,76,140.29,Desinfetante,Desinfetante
-SKU_365,A,97.8175813521599,1.13,79,88.89,Desinfetante,Desinfetante
-SKU_366,C,1.840855661952184,1.67,87,145.69,Água Sanitária,Água Sanitária
-SKU_367,A,82.93664366918772,4.61,71,327.17,Água Sanitária,Água Sanitária
-SKU_368,C,6.072562309881662,0.51,141,71.65,Detergente Líquido,Detergente Líquido
-SKU_369,C,3.3819031704974902,4.07,66,268.48,Sabão em Pó,Sabão em Pó
-SKU_370,C,1.2725730872328764,3.18,69,219.58,Água Sanitária,Água Sanitária
-SKU_371,B,42.18752616862932,2.62,79,207.33,Água Sanitária,Água Sanitária
-SKU_372,A,52.99565164673345,3.25,54,175.33,Amaciante,Amaciante
-SKU_373,B,34.26641051282545,1.86,80,148.92,Desinfetante,Desinfetante
-SKU_374,C,8.746996291788928,2.39,51,122.01,Amaciante,Amaciante
-SKU_375,C,1.9556554024818755,2.87,57,163.36,Sabão em Pó,Sabão em Pó
-SKU_376,B,15.63510540032734,0.53,124,65.6,Detergente Líquido,Detergente Líquido
-SKU_377,C,4.763212690013889,4.25,76,323.3,Sabão em Pó,Sabão em Pó
-SKU_378,C,2.7085069110102378,2.99,72,215.5,Sabão em Pó,Sabão em Pó
-SKU_379,B,45.163026544016745,2.07,70,144.87,Amaciante,Amaciante
-SKU_380,B,28.289225687589234,1.86,62,115.36,Sabão em Pó,Sabão em Pó
-SKU_381,A,64.06781691867641,0.94,110,103.53,Limpador Multiuso,Limpador Multiuso
-SKU_382,B,10.327096237889638,0.54,116,63.0,Detergente Líquido,Detergente Líquido
-SKU_383,C,7.874710877457906,1.05,63,65.85,Desinfetante,Desinfetante
-SKU_384,C,2.751897716989472,0.64,104,67.01,Limpador Multiuso,Limpador Multiuso
-SKU_385,C,7.879637032365157,1.83,99,180.71,Desinfetante,Desinfetante
-SKU_386,C,2.0692991775123057,0.54,150,80.91,Detergente Líquido,Detergente Líquido
-SKU_387,C,6.020486544449158,1.75,72,126.36,Desinfetante,Desinfetante
-SKU_388,C,4.612483758484581,0.5,108,54.49,Detergente Líquido,Detergente Líquido
-SKU_389,C,8.235692696747908,0.73,118,85.96,Limpador Multiuso,Limpador Multiuso
-SKU_390,C,2.258028871951197,0.66,105,69.22,Limpador Multiuso,Limpador Multiuso
-SKU_391,C,7.653874245162437,1.59,92,146.62,Desinfetante,Desinfetante
-SKU_392,C,5.791058468882888,3.25,80,260.14,Água Sanitária,Água Sanitária
-SKU_393,C,4.315220288791926,1.44,76,109.32,Água Sanitária,Água Sanitária
-SKU_394,C,8.170793325371324,4.49,90,403.96,Água Sanitária,Água Sanitária
-SKU_395,A,73.72951070425303,4.13,87,359.45,Água Sanitária,Água Sanitária
-SKU_396,C,7.49260101066676,0.74,113,83.65,Limpador Multiuso,Limpador Multiuso
-SKU_397,C,6.577622249509805,2.44,61,149.04,Amaciante,Amaciante
-SKU_398,B,32.90281085616504,1.44,51,73.42,Água Sanitária,Água Sanitária
-SKU_399,B,26.751211926767603,4.07,53,215.79,Amaciante,Amaciante
-SKU_400,C,6.503302539025906,4.62,63,290.96,Amaciante,Amaciante
-SKU_401,C,7.351977089365887,0.6,100,60.37,Limpador Multiuso,Limpador Multiuso
-SKU_402,C,5.30533885009061,2.94,45,132.36,Amaciante,Amaciante
-SKU_403,B,31.32508258292884,0.68,96,65.01,Limpador Multiuso,Limpador Multiuso
-SKU_404,C,2.7303775222304205,2.12,59,124.85,Sabão em Pó,Sabão em Pó
-SKU_405,B,48.91642510362276,1.77,73,129.3,Desinfetante,Desinfetante
-SKU_406,C,5.4010277156037585,3.05,69,210.2,Amaciante,Amaciante
-SKU_407,C,7.494979407348616,1.12,94,105.46,Desinfetante,Desinfetante
-SKU_408,B,49.20642149285449,1.95,69,134.87,Desinfetante,Desinfetante
-SKU_409,B,21.505213664565595,1.32,78,102.66,Água Sanitária,Água Sanitária
-SKU_410,C,7.726046497462044,1.81,74,133.81,Sabão em Pó,Sabão em Pó
-SKU_411,B,32.480720787099386,1.14,99,112.59,Desinfetante,Desinfetante
-SKU_412,C,3.153538593516665,0.57,133,75.41,Detergente Líquido,Detergente Líquido
-SKU_413,B,19.313462392238108,0.54,145,78.49,Detergente Líquido,Detergente Líquido
-SKU_414,B,37.24767946325721,1.02,75,76.55,Sabão em Pó,Sabão em Pó
-SKU_415,C,2.421469685898475,4.74,80,379.21,Água Sanitária,Água Sanitária
-SKU_416,B,17.978238986704067,1.32,63,83.23,Desinfetante,Desinfetante
-SKU_417,C,1.805146484603647,0.62,82,50.52,Limpador Multiuso,Limpador Multiuso
-SKU_418,C,2.5755829793286678,4.74,42,198.9,Sabão em Pó,Sabão em Pó
-SKU_419,C,4.572951168504697,2.56,63,161.21,Amaciante,Amaciante
-SKU_420,C,9.334357281067987,0.5,136,68.13,Detergente Líquido,Detergente Líquido
-SKU_421,C,9.356093614153155,1.28,94,120.75,Desinfetante,Desinfetante
-SKU_422,C,9.003339673929249,4.4,69,303.89,Sabão em Pó,Sabão em Pó
-SKU_423,B,42.3525551297208,1.16,89,103.46,Desinfetante,Desinfetante
-SKU_424,C,7.4673835611029835,0.57,150,86.05,Detergente Líquido,Detergente Líquido
-SKU_425,B,36.97604559578977,1.7,80,136.16,Sabão em Pó,Sabão em Pó
-SKU_426,C,8.442908427486786,0.66,105,69.72,Limpador Multiuso,Limpador Multiuso
-SKU_427,C,2.6630308094260595,2.91,55,160.04,Sabão em Pó,Sabão em Pó
-SKU_428,A,69.17871953380154,4.26,70,298.29,Amaciante,Amaciante
-SKU_429,B,33.29843006219939,0.51,103,52.09,Limpador Multiuso,Limpador Multiuso
-SKU_430,C,1.5591189862048251,0.55,110,60.12,Detergente Líquido,Detergente Líquido
-SKU_431,B,30.100818849535585,4.08,57,232.52,Água Sanitária,Água Sanitária
-SKU_432,C,9.465720613713103,1.61,74,119.48,Desinfetante,Desinfetante
-SKU_433,C,5.303637097617016,4.24,59,250.35,Amaciante,Amaciante
-SKU_434,B,38.07762907422617,4.27,65,277.68,Amaciante,Amaciante
-SKU_435,C,2.9657046039159334,3.72,78,290.27,Sabão em Pó,Sabão em Pó
-SKU_436,C,1.7368327582594738,3.58,51,182.81,Amaciante,Amaciante
-SKU_437,A,78.20843611367374,0.58,132,76.94,Detergente Líquido,Detergente Líquido
-SKU_438,B,31.466406330422277,2.31,73,168.81,Sabão em Pó,Sabão em Pó
-SKU_439,B,37.21180951756283,3.33,55,183.29,Água Sanitária,Água Sanitária
-SKU_440,C,5.009344229684984,0.55,132,71.99,Detergente Líquido,Detergente Líquido
-SKU_441,B,32.55644740394854,0.73,99,72.39,Limpador Multiuso,Limpador Multiuso
-SKU_442,C,4.563538389579318,0.57,137,78.72,Detergente Líquido,Detergente Líquido
-SKU_443,A,71.18486923893126,1.26,53,66.52,Água Sanitária,Água Sanitária
-SKU_444,C,1.6211723154428241,2.1,53,111.05,Amaciante,Amaciante
-SKU_445,A,56.77144332447189,4.91,76,373.41,Água Sanitária,Água Sanitária
-SKU_446,B,45.653344208741075,4.61,69,318.01,Amaciante,Amaciante
-SKU_447,B,13.209999705174669,4.5,58,260.9,Água Sanitária,Água Sanitária
-SKU_448,C,4.129928984252352,4.97,65,323.14,Sabão em Pó,Sabão em Pó
-SKU_449,C,7.550723268155153,4.34,41,177.91,Sabão em Pó,Sabão em Pó
-SKU_450,C,5.1670351107530195,3.18,84,266.93,Água Sanitária,Água Sanitária
-SKU_451,B,19.18656267151595,3.04,48,145.85,Amaciante,Amaciante
-SKU_452,A,93.76040873118637,0.5,142,71.46,Detergente Líquido,Detergente Líquido
-SKU_453,B,40.64213870055613,0.52,104,54.5,Detergente Líquido,Detergente Líquido
-SKU_454,A,51.67881378771404,0.84,83,69.39,Limpador Multiuso,Limpador Multiuso
-SKU_455,B,11.769469202239913,2.7,46,124.34,Amaciante,Amaciante
-SKU_456,C,7.984572593182298,3.02,58,174.9,Sabão em Pó,Sabão em Pó
-SKU_457,B,46.65588132486268,0.66,118,77.82,Limpador Multiuso,Limpador Multiuso
-SKU_458,C,8.365442401811375,2.21,49,108.15,Sabão em Pó,Sabão em Pó
-SKU_459,C,5.691259488384311,2.9,41,118.96,Amaciante,Amaciante
-SKU_460,C,6.325004100184328,4.65,90,418.17,Água Sanitária,Água Sanitária
-SKU_461,C,6.002655993853413,0.6,141,84.21,Detergente Líquido,Detergente Líquido
-SKU_462,C,8.072241363824663,1.7,86,145.88,Desinfetante,Desinfetante
-SKU_463,A,68.8230094253566,0.74,94,69.26,Limpador Multiuso,Limpador Multiuso
-SKU_464,B,38.30307189951888,4.74,57,270.42,Amaciante,Amaciante
-SKU_465,B,26.660314666416273,0.57,95,53.87,Limpador Multiuso,Limpador Multiuso
-SKU_466,B,23.2105197449642,0.59,123,72.84,Detergente Líquido,Detergente Líquido
-SKU_467,A,86.2292356153601,1.21,64,77.19,Sabão em Pó,Sabão em Pó
-SKU_468,C,6.426298404901683,0.52,148,76.78,Detergente Líquido,Detergente Líquido
-SKU_469,C,7.043054700118708,2.92,61,177.97,Sabão em Pó,Sabão em Pó
-SKU_470,B,46.35976642827204,4.75,47,223.19,Sabão em Pó,Sabão em Pó
-SKU_471,C,7.788976686524508,3.78,53,200.47,Sabão em Pó,Sabão em Pó
-SKU_472,B,19.57323835852125,1.78,84,149.14,Desinfetante,Desinfetante
-SKU_473,B,35.94885359980451,1.26,92,116.06,Desinfetante,Desinfetante
-SKU_474,C,5.194036602135554,2.88,70,201.46,Água Sanitária,Água Sanitária
-SKU_475,C,4.336344292881326,2.14,67,143.19,Amaciante,Amaciante
-SKU_476,B,15.836908524101943,1.55,97,150.67,Desinfetante,Desinfetante
-SKU_477,C,4.758202661996563,1.78,54,96.38,Sabão em Pó,Sabão em Pó
-SKU_478,B,43.33450861147941,3.65,70,255.63,Amaciante,Amaciante
-SKU_479,C,3.315940818713945,4.9,60,293.97,Amaciante,Amaciante
-SKU_480,C,5.147460986033847,4.18,60,250.79,Água Sanitária,Água Sanitária
-SKU_481,A,77.32731643628937,4.67,74,345.4,Sabão em Pó,Sabão em Pó
-SKU_482,C,9.615132045213793,0.52,84,43.42,Limpador Multiuso,Limpador Multiuso
-SKU_483,C,7.013939890538375,0.54,140,75.77,Detergente Líquido,Detergente Líquido
-SKU_484,B,38.28678254813839,0.52,129,67.32,Detergente Líquido,Detergente Líquido
-SKU_485,B,34.71340943507212,4.74,80,378.85,Água Sanitária,Água Sanitária
-SKU_486,C,1.1415859018229777,0.78,80,62.07,Limpador Multiuso,Limpador Multiuso
-SKU_487,A,86.10963608128606,0.99,81,80.09,Limpador Multiuso,Limpador Multiuso
-SKU_488,C,7.280731685953561,4.42,69,304.88,Amaciante,Amaciante
-SKU_489,A,95.90244222295055,0.57,92,52.85,Limpador Multiuso,Limpador Multiuso
-SKU_490,C,3.271763766832124,1.27,85,107.72,Desinfetante,Desinfetante
-SKU_491,A,97.96488970742651,3.7,62,229.09,Amaciante,Amaciante
-SKU_492,B,37.361665018815415,0.57,141,79.72,Detergente Líquido,Detergente Líquido
-SKU_493,C,1.8415045488439847,3.13,55,172.23,Amaciante,Amaciante
-SKU_494,A,50.47250863270653,1.33,67,89.16,Sabão em Pó,Sabão em Pó
-SKU_495,C,3.9814355529301584,0.59,102,60.13,Detergente Líquido,Detergente Líquido
-SKU_496,B,46.050918360983395,4.55,80,364.02,Água Sanitária,Água Sanitária
-SKU_497,B,46.966370664342655,4.7,84,395.0,Água Sanitária,Água Sanitária
-SKU_498,C,1.296116021381247,1.02,73,74.14,Desinfetante,Desinfetante
-SKU_499,C,7.770290228621786,4.28,54,231.31,Água Sanitária,Água Sanitária
-SKU_500,B,32.558327984950594,0.92,104,95.4,Limpador Multiuso,Limpador Multiuso
+SKU_001,C,6.638015911863269,2.66,58,154.57,Amaciante,Amaciante
+SKU_002,A,87.0269801621249,4.1,72,294.97,Água Sanitária,Água Sanitária
+SKU_003,C,5.478204299917409,3.93,49,192.62,Amaciante,Amaciante
+SKU_004,C,6.967253368758862,4.44,52,230.69,Sabão em Pó,Sabão em Pó
+SKU_005,A,83.27350390037867,4.48,45,201.44,Amaciante,Amaciante
+SKU_006,C,2.3406753908414455,0.62,82,51.02,Limpador Multiuso,Limpador Multiuso
+SKU_007,B,40.5341887258583,0.77,106,81.69,Limpador Multiuso,Limpador Multiuso
+SKU_008,C,3.4347328568518374,4.88,68,331.89,Amaciante,Amaciante
+SKU_009,B,13.095549613950958,1.85,77,142.08,Água Sanitária,Água Sanitária
+SKU_010,C,9.984190370763823,1.47,73,107.32,Água Sanitária,Água Sanitária
+SKU_011,C,7.613407738961462,1.72,77,132.79,Sabão em Pó,Sabão em Pó
+SKU_012,B,30.874123621552627,1.81,98,177.56,Desinfetante,Desinfetante
+SKU_013,B,26.70880216381027,0.54,100,53.93,Limpador Multiuso,Limpador Multiuso
+SKU_014,B,21.661616508672207,0.52,102,53.47,Detergente Líquido,Detergente Líquido
+SKU_015,C,4.321638703984366,0.51,114,57.79,Detergente Líquido,Detergente Líquido
+SKU_016,A,54.01134417959923,2.33,90,209.8,Água Sanitária,Água Sanitária
+SKU_017,C,6.392898244136904,0.51,116,59.25,Detergente Líquido,Detergente Líquido
+SKU_018,C,8.10735789673609,1.76,100,175.65,Desinfetante,Desinfetante
+SKU_019,C,2.2356550191283366,0.83,84,69.85,Limpador Multiuso,Limpador Multiuso
+SKU_020,C,7.629183005424229,0.52,123,63.88,Detergente Líquido,Detergente Líquido
+SKU_021,C,8.42109100117216,2.59,40,103.64,Amaciante,Amaciante
+SKU_022,B,42.57333264012997,3.01,50,150.45,Amaciante,Amaciante
+SKU_023,C,2.0888796188229364,0.54,85,45.57,Limpador Multiuso,Limpador Multiuso
+SKU_024,C,9.890906151089382,1.65,96,158.21,Desinfetante,Desinfetante
+SKU_025,A,87.41827198939998,0.51,108,55.55,Detergente Líquido,Detergente Líquido
+SKU_026,C,3.7525969309269778,0.56,149,83.64,Detergente Líquido,Detergente Líquido
+SKU_027,C,4.178378859662578,3.04,69,209.43,Sabão em Pó,Sabão em Pó
+SKU_028,A,77.68312322552931,2.79,49,136.51,Amaciante,Amaciante
+SKU_029,C,9.935837986363639,1.41,89,125.79,Desinfetante,Desinfetante
+SKU_030,B,28.97025286288214,4.0,57,227.9,Amaciante,Amaciante
+SKU_031,C,2.7689104192860565,0.56,133,74.99,Detergente Líquido,Detergente Líquido
+SKU_032,C,5.0754926725566305,1.82,68,123.78,Sabão em Pó,Sabão em Pó
+SKU_033,A,65.8022824298202,4.05,46,186.37,Amaciante,Amaciante
+SKU_034,B,44.52903659773879,0.53,104,55.0,Detergente Líquido,Detergente Líquido
+SKU_035,C,7.986974733488908,1.82,99,180.45,Desinfetante,Desinfetante
+SKU_036,A,53.46605236411255,3.17,59,186.83,Água Sanitária,Água Sanitária
+SKU_037,B,18.75016233055937,1.05,67,70.58,Desinfetante,Desinfetante
+SKU_038,B,13.98969903123092,1.35,78,105.3,Sabão em Pó,Sabão em Pó
+SKU_039,C,6.385627386899298,0.57,108,61.03,Limpador Multiuso,Limpador Multiuso
+SKU_040,A,62.80178060092113,0.57,98,55.96,Limpador Multiuso,Limpador Multiuso
+SKU_041,B,42.19755087568791,0.84,108,90.76,Limpador Multiuso,Limpador Multiuso
+SKU_042,A,99.021013507644,1.95,60,117.23,Água Sanitária,Água Sanitária
+SKU_043,C,2.926555209023204,0.59,130,77.14,Detergente Líquido,Detergente Líquido
+SKU_044,C,3.02401167335988,2.14,74,158.29,Sabão em Pó,Sabão em Pó
+SKU_045,C,3.4636083276715786,1.28,81,103.53,Desinfetante,Desinfetante
+SKU_046,A,83.1102907028849,4.61,60,276.63,Amaciante,Amaciante
+SKU_047,C,5.0319891981997955,1.34,93,124.4,Desinfetante,Desinfetante
+SKU_048,A,67.87860634484213,1.72,71,122.06,Água Sanitária,Água Sanitária
+SKU_049,C,8.354655311766155,4.39,69,303.16,Água Sanitária,Água Sanitária
+SKU_050,C,1.4736202400530267,0.85,113,96.17,Limpador Multiuso,Limpador Multiuso
+SKU_051,C,8.158315105678593,4.34,48,208.47,Sabão em Pó,Sabão em Pó
+SKU_052,C,4.145188010156758,1.67,61,101.88,Água Sanitária,Água Sanitária
+SKU_053,C,2.9426381080655477,4.13,45,185.74,Sabão em Pó,Sabão em Pó
+SKU_054,C,7.4111702216499165,2.52,60,150.93,Amaciante,Amaciante
+SKU_055,B,49.77231782275091,0.56,102,56.98,Detergente Líquido,Detergente Líquido
+SKU_056,B,27.647188045649532,1.35,54,73.12,Água Sanitária,Água Sanitária
+SKU_057,B,41.7370634603084,0.98,111,109.33,Limpador Multiuso,Limpador Multiuso
+SKU_058,C,1.5528844353860713,0.52,110,57.0,Detergente Líquido,Detergente Líquido
+SKU_059,B,45.59052277189896,1.04,43,44.58,Sabão em Pó,Sabão em Pó
+SKU_060,C,7.194824591737111,0.83,119,99.03,Limpador Multiuso,Limpador Multiuso
+SKU_061,C,9.924190159701155,1.88,74,139.43,Desinfetante,Desinfetante
+SKU_062,B,19.020808660868447,1.95,89,173.82,Desinfetante,Desinfetante
+SKU_063,C,3.1211056716999677,0.59,135,80.31,Detergente Líquido,Detergente Líquido
+SKU_064,C,4.049558356833542,2.39,53,126.43,Amaciante,Amaciante
+SKU_065,A,60.20789824977796,4.26,41,174.47,Sabão em Pó,Sabão em Pó
+SKU_066,B,23.792188339733393,0.81,118,96.02,Limpador Multiuso,Limpador Multiuso
+SKU_067,A,69.14346681471537,4.44,58,257.36,Água Sanitária,Água Sanitária
+SKU_068,B,14.052856230575767,4.3,41,176.49,Amaciante,Amaciante
+SKU_069,C,1.8908230375319817,1.24,68,84.6,Desinfetante,Desinfetante
+SKU_070,C,4.908591083730758,1.51,76,114.96,Sabão em Pó,Sabão em Pó
+SKU_071,B,15.279397068389802,1.42,47,66.55,Sabão em Pó,Sabão em Pó
+SKU_072,C,5.7500662841900265,2.94,48,140.99,Amaciante,Amaciante
+SKU_073,B,17.734905176712346,2.11,73,154.09,Sabão em Pó,Sabão em Pó
+SKU_074,A,79.98420935086935,4.15,74,306.84,Água Sanitária,Água Sanitária
+SKU_075,C,9.634708640094944,0.6,111,66.56,Detergente Líquido,Detergente Líquido
+SKU_076,B,18.5566249473357,4.39,42,184.38,Amaciante,Amaciante
+SKU_077,C,6.969644246044654,0.59,133,78.94,Detergente Líquido,Detergente Líquido
+SKU_078,B,28.109176017539205,3.5,55,192.4,Amaciante,Amaciante
+SKU_079,B,12.976717957917128,0.93,117,108.8,Limpador Multiuso,Limpador Multiuso
+SKU_080,B,17.939637199910763,4.03,50,201.26,Água Sanitária,Água Sanitária
+SKU_081,C,5.077400175073115,4.98,51,254.03,Amaciante,Amaciante
+SKU_082,C,2.9161673767705993,3.81,53,202.0,Amaciante,Amaciante
+SKU_083,C,2.3552932291054107,1.56,65,101.58,Desinfetante,Desinfetante
+SKU_084,C,9.949376028171423,0.54,141,75.55,Detergente Líquido,Detergente Líquido
+SKU_085,A,51.33572132157164,0.5,100,50.17,Detergente Líquido,Detergente Líquido
+SKU_086,B,47.826749214015194,3.4,50,170.15,Amaciante,Amaciante
+SKU_087,C,1.3655088224090017,0.59,110,64.95,Limpador Multiuso,Limpador Multiuso
+SKU_088,B,29.582599835250246,0.81,108,86.97,Limpador Multiuso,Limpador Multiuso
+SKU_089,C,9.40906064776251,0.89,93,82.38,Limpador Multiuso,Limpador Multiuso
+SKU_090,A,67.33365501738416,0.94,92,86.08,Limpador Multiuso,Limpador Multiuso
+SKU_091,B,28.899739171497068,3.07,82,251.59,Água Sanitária,Água Sanitária
+SKU_092,B,23.58541802787144,4.1,60,246.05,Amaciante,Amaciante
+SKU_093,A,73.80552712649748,1.23,94,115.63,Desinfetante,Desinfetante
+SKU_094,C,7.277687324710437,4.84,52,251.61,Sabão em Pó,Sabão em Pó
+SKU_095,B,14.112757670421132,1.15,73,83.73,Desinfetante,Desinfetante
+SKU_096,C,6.193838831210982,4.7,56,263.46,Água Sanitária,Água Sanitária
+SKU_097,A,85.71867474219593,4.12,82,337.95,Água Sanitária,Água Sanitária
+SKU_098,C,4.764977445288851,0.51,115,58.61,Detergente Líquido,Detergente Líquido
+SKU_099,B,34.15978116645637,1.5,88,132.05,Desinfetante,Desinfetante
+SKU_100,C,1.3033287629065071,3.82,54,206.3,Amaciante,Amaciante
+SKU_101,C,2.7965709273269983,1.15,65,74.91,Desinfetante,Desinfetante
+SKU_102,C,4.57388217465761,3.36,73,245.14,Água Sanitária,Água Sanitária
+SKU_103,C,6.228408772969828,0.51,147,74.39,Detergente Líquido,Detergente Líquido
+SKU_104,A,94.21746813705298,0.95,86,81.7,Limpador Multiuso,Limpador Multiuso
+SKU_105,A,97.90414340737644,0.57,96,54.48,Limpador Multiuso,Limpador Multiuso
+SKU_106,C,3.608894479505135,1.84,53,97.29,Água Sanitária,Água Sanitária
+SKU_107,A,72.29288415156333,0.9,101,90.61,Limpador Multiuso,Limpador Multiuso
+SKU_108,C,6.6529038721328355,4.18,59,246.57,Sabão em Pó,Sabão em Pó
+SKU_109,A,60.05142972893464,0.58,84,48.68,Limpador Multiuso,Limpador Multiuso
+SKU_110,B,31.0916454220029,0.93,82,76.56,Limpador Multiuso,Limpador Multiuso
+SKU_111,B,39.74547290645225,0.63,82,51.71,Limpador Multiuso,Limpador Multiuso
+SKU_112,C,7.7501573329201054,0.53,113,60.19,Detergente Líquido,Detergente Líquido
+SKU_113,C,4.29456029175082,4.91,54,265.08,Sabão em Pó,Sabão em Pó
+SKU_114,C,3.7581611830640465,0.57,82,46.69,Limpador Multiuso,Limpador Multiuso
+SKU_115,C,1.60590304959647,3.62,53,191.6,Sabão em Pó,Sabão em Pó
+SKU_116,C,3.7887664165013124,3.17,76,241.0,Sabão em Pó,Sabão em Pó
+SKU_117,B,47.98066857296624,0.83,90,74.78,Limpador Multiuso,Limpador Multiuso
+SKU_118,C,3.021375888088971,1.93,84,161.89,Desinfetante,Desinfetante
+SKU_119,B,38.40169357491132,1.7,78,132.8,Desinfetante,Desinfetante
+SKU_120,B,36.67690226253074,1.36,97,131.99,Desinfetante,Desinfetante
+SKU_121,C,1.062097310472944,2.59,62,160.89,Sabão em Pó,Sabão em Pó
+SKU_122,B,19.805362857744168,2.37,69,163.3,Água Sanitária,Água Sanitária
+SKU_123,B,28.738855895856986,3.11,49,152.47,Amaciante,Amaciante
+SKU_124,C,2.3928533365749027,1.79,77,137.75,Sabão em Pó,Sabão em Pó
+SKU_125,C,9.637323457101237,0.53,115,60.7,Detergente Líquido,Detergente Líquido
+SKU_126,A,82.38652252539426,0.58,109,63.16,Detergente Líquido,Detergente Líquido
+SKU_127,A,89.11283554690287,1.04,63,65.28,Água Sanitária,Água Sanitária
+SKU_128,B,26.83716290078706,1.03,95,97.44,Desinfetante,Desinfetante
+SKU_129,B,17.5637584244754,4.81,48,230.85,Amaciante,Amaciante
+SKU_130,C,6.8468158562178285,2.92,41,119.83,Amaciante,Amaciante
+SKU_131,C,9.448448069185995,0.58,106,61.62,Limpador Multiuso,Limpador Multiuso
+SKU_132,C,1.895873162169401,4.06,43,174.64,Amaciante,Amaciante
+SKU_133,C,3.5842295386287852,0.57,147,83.12,Detergente Líquido,Detergente Líquido
+SKU_134,C,3.274151548397148,4.97,60,298.17,Sabão em Pó,Sabão em Pó
+SKU_135,C,7.038862065544682,3.47,49,170.15,Amaciante,Amaciante
+SKU_136,C,2.1928985364093636,0.5,135,68.1,Detergente Líquido,Detergente Líquido
+SKU_137,A,66.97483124242387,0.77,115,88.93,Limpador Multiuso,Limpador Multiuso
+SKU_138,B,12.688114813340299,4.63,66,305.74,Amaciante,Amaciante
+SKU_139,B,36.60627439377697,3.02,46,139.06,Amaciante,Amaciante
+SKU_140,C,4.445946785277727,4.74,79,374.6,Água Sanitária,Água Sanitária
+SKU_141,C,1.3845138019201846,2.52,86,216.62,Água Sanitária,Água Sanitária
+SKU_142,C,7.516624840548657,1.08,78,84.55,Desinfetante,Desinfetante
+SKU_143,A,89.58884065093515,3.2,49,156.99,Sabão em Pó,Sabão em Pó
+SKU_144,C,2.3476489828564575,3.0,65,194.85,Amaciante,Amaciante
+SKU_145,B,26.424055040303543,3.68,70,257.66,Amaciante,Amaciante
+SKU_146,A,77.83405517814506,0.65,86,56.19,Limpador Multiuso,Limpador Multiuso
+SKU_147,C,8.305158617336085,1.27,64,81.45,Desinfetante,Desinfetante
+SKU_148,C,8.267815586953805,4.3,50,215.16,Amaciante,Amaciante
+SKU_149,C,4.3115789341807655,4.95,73,361.28,Sabão em Pó,Sabão em Pó
+SKU_150,A,98.50054247261878,2.05,68,139.25,Amaciante,Amaciante
+SKU_151,B,26.844347806731996,4.7,62,291.46,Amaciante,Amaciante
+SKU_152,C,9.738498260277098,2.55,40,102.11,Amaciante,Amaciante
+SKU_153,C,3.893278296902358,4.87,64,311.39,Água Sanitária,Água Sanitária
+SKU_154,C,7.963406524073154,1.97,97,190.61,Desinfetante,Desinfetante
+SKU_155,B,22.228181655703203,3.74,62,231.61,Amaciante,Amaciante
+SKU_156,C,9.024966159945508,4.63,77,356.75,Água Sanitária,Água Sanitária
+SKU_157,C,8.022859862658363,0.88,97,85.25,Limpador Multiuso,Limpador Multiuso
+SKU_158,C,1.8842533965493193,0.74,103,76.5,Limpador Multiuso,Limpador Multiuso
+SKU_159,B,43.95851087473978,3.8,59,224.36,Água Sanitária,Água Sanitária
+SKU_160,C,9.95050879054843,1.56,85,132.32,Desinfetante,Desinfetante
+SKU_161,C,7.454378470372176,1.73,65,112.25,Desinfetante,Desinfetante
+SKU_162,C,7.989582655781973,2.42,52,126.03,Amaciante,Amaciante
+SKU_163,C,5.214720437289721,4.44,70,310.95,Amaciante,Amaciante
+SKU_164,C,6.169553594778239,3.84,67,257.52,Sabão em Pó,Sabão em Pó
+SKU_165,C,4.439472420226813,0.55,111,60.57,Detergente Líquido,Detergente Líquido
+SKU_166,A,81.85785190153655,1.91,47,89.68,Sabão em Pó,Sabão em Pó
+SKU_167,C,6.437409791405656,1.2,45,53.96,Sabão em Pó,Sabão em Pó
+SKU_168,C,8.77161594856653,1.03,87,89.73,Desinfetante,Desinfetante
+SKU_169,A,95.85667971414011,1.0,61,61.01,Desinfetante,Desinfetante
+SKU_170,C,3.051849694631496,4.51,59,266.05,Sabão em Pó,Sabão em Pó
+SKU_171,B,22.101052746269264,1.22,82,100.41,Desinfetante,Desinfetante
+SKU_172,B,33.462477152709646,3.63,51,185.29,Água Sanitária,Água Sanitária
+SKU_173,B,31.532059032260324,0.57,92,52.56,Limpador Multiuso,Limpador Multiuso
+SKU_174,C,1.2613607092662413,3.7,45,166.72,Amaciante,Amaciante
+SKU_175,C,3.566965852192293,3.32,61,202.37,Sabão em Pó,Sabão em Pó
+SKU_176,C,4.073676842772561,1.83,69,125.97,Desinfetante,Desinfetante
+SKU_177,B,47.73937429629695,3.13,78,244.11,Água Sanitária,Água Sanitária
+SKU_178,C,9.838996018542668,4.11,70,287.59,Amaciante,Amaciante
+SKU_179,A,82.85807438383375,0.6,100,59.5,Detergente Líquido,Detergente Líquido
+SKU_180,C,8.550740836313093,1.97,98,192.96,Desinfetante,Desinfetante
+SKU_181,C,3.6911473142033313,1.17,55,64.61,Água Sanitária,Água Sanitária
+SKU_182,C,5.682656776459715,0.95,112,106.8,Limpador Multiuso,Limpador Multiuso
+SKU_183,A,68.64840332663562,1.28,61,77.81,Água Sanitária,Água Sanitária
+SKU_184,C,1.5156265705388328,3.64,61,222.01,Água Sanitária,Água Sanitária
+SKU_185,C,2.473676800307632,0.95,84,80.03,Limpador Multiuso,Limpador Multiuso
+SKU_186,B,27.192045007460894,0.67,105,70.35,Limpador Multiuso,Limpador Multiuso
+SKU_187,B,27.710572774789476,4.48,54,242.03,Sabão em Pó,Sabão em Pó
+SKU_188,A,66.98968078512469,1.37,96,131.98,Desinfetante,Desinfetante
+SKU_189,B,35.034443775288956,0.7,110,76.52,Limpador Multiuso,Limpador Multiuso
+SKU_190,B,35.77450203999354,0.52,112,57.95,Detergente Líquido,Detergente Líquido
+SKU_191,C,7.346463020211213,0.57,108,62.04,Limpador Multiuso,Limpador Multiuso
+SKU_192,C,8.039566662590856,0.85,116,98.98,Limpador Multiuso,Limpador Multiuso
+SKU_193,B,29.91213310861402,0.65,90,58.92,Limpador Multiuso,Limpador Multiuso
+SKU_194,C,4.087182671766489,3.37,71,239.57,Sabão em Pó,Sabão em Pó
+SKU_195,B,35.62846959644851,0.69,119,82.47,Limpador Multiuso,Limpador Multiuso
+SKU_196,A,72.85338070805182,3.77,66,248.86,Amaciante,Amaciante
+SKU_197,C,3.2673779514698236,1.75,56,98.14,Água Sanitária,Água Sanitária
+SKU_198,A,81.61849604775654,0.83,114,94.44,Limpador Multiuso,Limpador Multiuso
+SKU_199,C,8.718682292711302,1.02,66,67.54,Água Sanitária,Água Sanitária
+SKU_200,B,26.63951561756771,0.78,111,86.78,Limpador Multiuso,Limpador Multiuso
+SKU_201,A,55.825417528098136,0.68,100,68.4,Limpador Multiuso,Limpador Multiuso
+SKU_202,B,15.02547926555971,0.6,125,74.91,Detergente Líquido,Detergente Líquido
+SKU_203,C,3.3118263378077417,4.09,89,363.65,Água Sanitária,Água Sanitária
+SKU_204,C,3.183730847549544,1.4,65,90.87,Desinfetante,Desinfetante
+SKU_205,C,7.086967498138793,0.92,100,91.85,Limpador Multiuso,Limpador Multiuso
+SKU_206,C,5.68977033756558,0.54,150,81.68,Detergente Líquido,Detergente Líquido
+SKU_207,C,9.415004127705132,0.9,90,81.26,Limpador Multiuso,Limpador Multiuso
+SKU_208,B,22.813859426961763,4.07,87,353.7,Água Sanitária,Água Sanitária
+SKU_209,C,8.823074403930235,0.57,97,55.27,Limpador Multiuso,Limpador Multiuso
+SKU_210,C,5.251840532568141,1.09,63,68.51,Desinfetante,Desinfetante
+SKU_211,B,12.631482441698655,3.5,52,182.14,Água Sanitária,Água Sanitária
+SKU_212,C,6.9202902384876275,1.08,82,88.72,Desinfetante,Desinfetante
+SKU_213,B,11.50725066688851,0.74,106,78.11,Limpador Multiuso,Limpador Multiuso
+SKU_214,C,4.271655166108671,1.52,79,120.1,Desinfetante,Desinfetante
+SKU_215,C,9.097776948724448,0.51,119,60.46,Detergente Líquido,Detergente Líquido
+SKU_216,B,49.05622822066655,1.32,73,96.01,Desinfetante,Desinfetante
+SKU_217,B,49.85895599779512,0.86,100,85.98,Limpador Multiuso,Limpador Multiuso
+SKU_218,B,49.71818928487289,1.01,74,74.95,Desinfetante,Desinfetante
+SKU_219,C,9.712352654655325,2.36,85,200.47,Água Sanitária,Água Sanitária
+SKU_220,C,9.183889350065096,1.42,78,110.78,Desinfetante,Desinfetante
+SKU_221,C,8.066255041331154,3.03,72,218.2,Água Sanitária,Água Sanitária
+SKU_222,C,2.2335434957005145,3.18,50,158.79,Sabão em Pó,Sabão em Pó
+SKU_223,B,29.23254290014798,4.17,62,258.84,Água Sanitária,Água Sanitária
+SKU_224,A,70.61345237273753,4.77,79,376.79,Sabão em Pó,Sabão em Pó
+SKU_225,C,2.487456111759225,0.81,101,82.0,Limpador Multiuso,Limpador Multiuso
+SKU_226,A,97.68105214884896,1.71,62,105.85,Desinfetante,Desinfetante
+SKU_227,B,39.01190249425801,1.75,63,110.39,Desinfetante,Desinfetante
+SKU_228,A,83.96499417897208,3.42,49,167.67,Amaciante,Amaciante
+SKU_229,B,47.39772821382227,0.56,104,57.96,Detergente Líquido,Detergente Líquido
+SKU_230,C,2.357382501038062,4.93,54,266.37,Água Sanitária,Água Sanitária
+SKU_231,C,8.661395541713699,4.63,59,273.05,Água Sanitária,Água Sanitária
+SKU_232,C,2.68212947127142,1.19,72,85.51,Água Sanitária,Água Sanitária
+SKU_233,B,25.649379575486027,0.59,145,85.18,Detergente Líquido,Detergente Líquido
+SKU_234,C,1.0464299534731012,3.95,87,343.46,Água Sanitária,Água Sanitária
+SKU_235,C,8.31322895386404,3.71,50,185.4,Água Sanitária,Água Sanitária
+SKU_236,C,9.56592400764713,4.23,65,275.26,Amaciante,Amaciante
+SKU_237,C,9.616410670363637,0.57,86,49.07,Limpador Multiuso,Limpador Multiuso
+SKU_238,A,93.57012582220014,1.41,70,98.89,Desinfetante,Desinfetante
+SKU_239,A,83.54321816394017,0.79,102,80.49,Limpador Multiuso,Limpador Multiuso
+SKU_240,C,4.268573021951088,1.48,63,93.52,Desinfetante,Desinfetante
+SKU_241,B,31.62720179879009,1.62,97,157.3,Desinfetante,Desinfetante
+SKU_242,C,3.6069289479372015,2.38,51,121.54,Amaciante,Amaciante
+SKU_243,A,56.56982500023081,0.59,101,59.16,Detergente Líquido,Detergente Líquido
+SKU_244,C,4.660424431033812,1.7,80,136.01,Desinfetante,Desinfetante
+SKU_245,A,78.46760638569646,2.12,59,124.81,Amaciante,Amaciante
+SKU_246,B,10.151749958792987,4.78,69,330.15,Água Sanitária,Água Sanitária
+SKU_247,B,26.018140379645452,1.26,80,100.67,Desinfetante,Desinfetante
+SKU_248,A,61.50979323356448,4.4,65,286.04,Amaciante,Amaciante
+SKU_249,C,7.496293000771601,1.82,72,131.06,Desinfetante,Desinfetante
+SKU_250,B,48.48700941386304,0.6,130,77.46,Detergente Líquido,Detergente Líquido
+SKU_251,C,5.744241965052269,2.02,69,139.14,Amaciante,Amaciante
+SKU_252,A,71.2996736337437,4.67,56,261.47,Sabão em Pó,Sabão em Pó
+SKU_253,A,84.4275848577912,4.86,60,291.45,Sabão em Pó,Sabão em Pó
+SKU_254,C,5.940438835361947,0.73,103,75.17,Limpador Multiuso,Limpador Multiuso
+SKU_255,B,32.96852755142365,0.5,125,62.91,Detergente Líquido,Detergente Líquido
+SKU_256,A,79.87989000916514,0.54,127,68.88,Detergente Líquido,Detergente Líquido
+SKU_257,B,11.66964904417869,1.57,54,84.68,Sabão em Pó,Sabão em Pó
+SKU_258,C,5.9824667689238655,4.37,40,174.82,Sabão em Pó,Sabão em Pó
+SKU_259,C,7.110329379624773,0.58,103,59.48,Detergente Líquido,Detergente Líquido
+SKU_260,A,73.44802470757406,1.45,78,112.96,Desinfetante,Desinfetante
+SKU_261,A,62.455310620648646,3.24,74,239.92,Água Sanitária,Água Sanitária
+SKU_262,A,51.30746930554947,2.64,51,134.57,Sabão em Pó,Sabão em Pó
+SKU_263,B,17.784610159328267,4.9,66,323.35,Amaciante,Amaciante
+SKU_264,C,9.43947459843109,3.52,65,228.72,Amaciante,Amaciante
+SKU_265,C,9.415387433426076,2.92,54,157.95,Sabão em Pó,Sabão em Pó
+SKU_266,C,3.288355487167045,0.54,118,64.23,Detergente Líquido,Detergente Líquido
+SKU_267,B,49.263577261991834,0.8,111,88.9,Limpador Multiuso,Limpador Multiuso
+SKU_268,C,6.086695029154852,0.89,88,78.64,Limpador Multiuso,Limpador Multiuso
+SKU_269,C,4.032112960094354,2.34,74,172.89,Água Sanitária,Água Sanitária
+SKU_270,B,30.412591734942716,2.55,73,186.47,Sabão em Pó,Sabão em Pó
+SKU_271,B,23.48937331316175,1.76,53,93.32,Sabão em Pó,Sabão em Pó
+SKU_272,C,6.348924718344807,0.91,113,102.78,Limpador Multiuso,Limpador Multiuso
+SKU_273,C,4.762470649522029,3.73,80,298.68,Água Sanitária,Água Sanitária
+SKU_274,C,8.024821396328983,0.51,131,67.31,Detergente Líquido,Detergente Líquido
+SKU_275,B,46.56244870878894,0.88,117,103.42,Limpador Multiuso,Limpador Multiuso
+SKU_276,C,2.564232080060222,1.75,56,97.74,Água Sanitária,Água Sanitária
+SKU_277,C,1.7131312480876408,4.21,79,332.5,Água Sanitária,Água Sanitária
+SKU_278,C,6.500051619670132,0.51,103,52.92,Detergente Líquido,Detergente Líquido
+SKU_279,B,24.00772175650858,1.86,72,134.02,Desinfetante,Desinfetante
+SKU_280,B,27.942335273733107,1.58,78,123.52,Desinfetante,Desinfetante
+SKU_281,C,5.877724854520728,2.72,56,152.27,Água Sanitária,Água Sanitária
+SKU_282,C,3.5646619729527114,0.53,114,60.46,Detergente Líquido,Detergente Líquido
+SKU_283,C,9.81880544066177,0.69,106,72.73,Limpador Multiuso,Limpador Multiuso
+SKU_284,A,96.42447363195458,2.07,40,82.62,Sabão em Pó,Sabão em Pó
+SKU_285,B,33.082556501560134,3.35,60,201.05,Amaciante,Amaciante
+SKU_286,A,53.14847127586423,4.79,52,249.03,Sabão em Pó,Sabão em Pó
+SKU_287,B,21.343269929815488,2.16,60,129.53,Sabão em Pó,Sabão em Pó
+SKU_288,B,22.048187414541907,4.63,81,374.73,Água Sanitária,Água Sanitária
+SKU_289,A,97.96088192372498,1.19,83,98.57,Desinfetante,Desinfetante
+SKU_290,C,9.610178016320996,1.06,63,66.61,Água Sanitária,Água Sanitária
+SKU_291,B,45.82674323498049,0.54,119,64.03,Detergente Líquido,Detergente Líquido
+SKU_292,C,4.478811088978177,0.53,110,57.78,Limpador Multiuso,Limpador Multiuso
+SKU_293,A,67.04718912046904,0.51,117,59.39,Detergente Líquido,Detergente Líquido
+SKU_294,A,65.80449132768939,4.88,60,293.08,Água Sanitária,Água Sanitária
+SKU_295,B,24.663145023861688,0.58,121,69.9,Detergente Líquido,Detergente Líquido
+SKU_296,B,11.157178605215607,3.97,65,258.03,Água Sanitária,Água Sanitária
+SKU_297,B,16.81668728341223,1.6,94,150.43,Desinfetante,Desinfetante
+SKU_298,C,7.666371088150042,4.8,71,340.95,Água Sanitária,Água Sanitária
+SKU_299,B,24.871362919458157,4.27,62,264.85,Amaciante,Amaciante
+SKU_300,C,1.7169046362091298,1.59,68,107.9,Desinfetante,Desinfetante
+SKU_301,B,20.45430970393371,0.6,106,63.54,Detergente Líquido,Detergente Líquido
+SKU_302,B,18.62488394463962,4.62,69,318.91,Amaciante,Amaciante
+SKU_303,B,48.58004954022354,2.32,57,132.47,Amaciante,Amaciante
+SKU_304,B,19.62762235507747,1.06,86,91.15,Água Sanitária,Água Sanitária
+SKU_305,C,4.669949494813098,2.74,55,150.67,Água Sanitária,Água Sanitária
+SKU_306,A,59.04233161896612,4.46,75,334.29,Sabão em Pó,Sabão em Pó
+SKU_307,C,5.119947541519781,1.42,84,119.11,Desinfetante,Desinfetante
+SKU_308,C,3.1329108693010546,0.57,105,60.29,Detergente Líquido,Detergente Líquido
+SKU_309,A,87.70128333896166,2.13,67,142.79,Sabão em Pó,Sabão em Pó
+SKU_310,C,1.7021987376771288,2.57,53,136.27,Sabão em Pó,Sabão em Pó
+SKU_311,C,2.7284380893468576,0.52,107,55.57,Limpador Multiuso,Limpador Multiuso
+SKU_312,C,4.126403009471553,0.82,89,73.28,Limpador Multiuso,Limpador Multiuso
+SKU_313,C,8.725863666080567,0.5,117,58.58,Detergente Líquido,Detergente Líquido
+SKU_314,B,22.10932967438535,0.54,106,57.33,Limpador Multiuso,Limpador Multiuso
+SKU_315,C,4.230001545382164,0.82,107,88.21,Limpador Multiuso,Limpador Multiuso
+SKU_316,C,1.7854137572310447,4.03,64,258.22,Amaciante,Amaciante
+SKU_317,C,6.315008764689663,0.53,148,77.94,Detergente Líquido,Detergente Líquido
+SKU_318,C,7.238457314238558,0.8,88,70.31,Limpador Multiuso,Limpador Multiuso
+SKU_319,A,92.09707007823496,3.97,40,158.96,Sabão em Pó,Sabão em Pó
+SKU_320,C,2.5699211222483216,2.65,53,140.63,Amaciante,Amaciante
+SKU_321,C,2.8019151680521692,3.01,55,165.81,Amaciante,Amaciante
+SKU_322,C,4.625300498962024,3.06,48,146.82,Amaciante,Amaciante
+SKU_323,A,79.61925004829178,1.55,69,107.23,Desinfetante,Desinfetante
+SKU_324,A,82.61203687192724,1.01,79,79.59,Desinfetante,Desinfetante
+SKU_325,B,48.60204318795843,4.56,78,355.78,Água Sanitária,Água Sanitária
+SKU_326,A,84.88735385897115,3.68,79,290.9,Sabão em Pó,Sabão em Pó
+SKU_327,C,5.529932293154221,4.09,84,343.36,Água Sanitária,Água Sanitária
+SKU_328,B,48.23228021479703,0.54,150,81.08,Detergente Líquido,Detergente Líquido
+SKU_329,B,44.004308572818445,1.59,77,122.54,Desinfetante,Desinfetante
+SKU_330,B,25.242406584733907,2.05,45,92.45,Amaciante,Amaciante
+SKU_331,B,27.642369932019268,3.69,88,325.14,Água Sanitária,Água Sanitária
+SKU_332,C,5.591740664395199,1.01,62,62.73,Desinfetante,Desinfetante
+SKU_333,C,5.535505113090604,2.04,77,157.17,Sabão em Pó,Sabão em Pó
+SKU_334,C,8.429737533111497,0.5,104,52.09,Detergente Líquido,Detergente Líquido
+SKU_335,C,8.80342396005819,1.16,65,75.16,Desinfetante,Desinfetante
+SKU_336,C,8.238464010626739,3.77,50,188.56,Sabão em Pó,Sabão em Pó
+SKU_337,B,47.530395076800914,0.55,132,72.22,Detergente Líquido,Detergente Líquido
+SKU_338,B,43.969458254259294,1.19,100,118.77,Desinfetante,Desinfetante
+SKU_339,A,52.76149728501754,4.83,68,328.24,Água Sanitária,Água Sanitária
+SKU_340,C,8.509747106032318,3.94,63,248.27,Sabão em Pó,Sabão em Pó
+SKU_341,C,2.711672516616951,2.5,79,197.49,Água Sanitária,Água Sanitária
+SKU_342,C,5.867700802411355,0.53,125,66.28,Detergente Líquido,Detergente Líquido
+SKU_343,B,21.792900388292807,1.61,75,120.4,Desinfetante,Desinfetante
+SKU_344,A,55.443129456240705,1.8,99,177.98,Desinfetante,Desinfetante
+SKU_345,C,5.349334100724751,2.98,41,121.98,Sabão em Pó,Sabão em Pó
+SKU_346,C,7.300590884761809,0.73,90,65.92,Limpador Multiuso,Limpador Multiuso
+SKU_347,C,8.833387378325295,0.96,101,97.09,Limpador Multiuso,Limpador Multiuso
+SKU_348,C,6.066372163929261,0.52,105,55.09,Limpador Multiuso,Limpador Multiuso
+SKU_349,B,24.287336265828333,2.06,75,154.66,Sabão em Pó,Sabão em Pó
+SKU_350,C,9.803493604138485,0.52,127,66.63,Detergente Líquido,Detergente Líquido
+SKU_351,C,4.848837355960544,2.8,51,142.68,Água Sanitária,Água Sanitária
+SKU_352,B,45.5787745276139,1.03,89,91.7,Água Sanitária,Água Sanitária
+SKU_353,B,25.006558998821248,2.75,62,170.23,Água Sanitária,Água Sanitária
+SKU_354,B,34.1677733641363,2.65,71,188.36,Sabão em Pó,Sabão em Pó
+SKU_355,B,49.969196831793234,4.07,74,301.51,Sabão em Pó,Sabão em Pó
+SKU_356,B,14.377512130588714,2.47,54,133.46,Sabão em Pó,Sabão em Pó
+SKU_357,B,46.42874275732714,0.93,118,109.31,Limpador Multiuso,Limpador Multiuso
+SKU_358,A,77.80073043393948,3.44,66,227.03,Amaciante,Amaciante
+SKU_359,C,5.45426186758332,2.6,51,132.46,Amaciante,Amaciante
+SKU_360,C,3.434264257980362,1.41,75,105.83,Desinfetante,Desinfetante
+SKU_361,C,2.568043764780461,2.48,64,158.75,Água Sanitária,Água Sanitária
+SKU_362,B,22.34997265972394,2.47,41,101.2,Amaciante,Amaciante
+SKU_363,C,9.038680826653202,1.15,74,85.4,Desinfetante,Desinfetante
+SKU_364,B,33.89305700342314,2.97,44,130.7,Amaciante,Amaciante
+SKU_365,C,5.585833709064281,0.6,131,78.42,Detergente Líquido,Detergente Líquido
+SKU_366,C,6.236509503623319,4.84,52,251.64,Amaciante,Amaciante
+SKU_367,C,6.664881397010097,4.43,70,310.14,Água Sanitária,Água Sanitária
+SKU_368,B,35.20918673259416,0.56,128,72.11,Detergente Líquido,Detergente Líquido
+SKU_369,C,4.2866080415259145,2.37,68,160.9,Sabão em Pó,Sabão em Pó
+SKU_370,C,5.129140579800338,4.68,74,346.06,Água Sanitária,Água Sanitária
+SKU_371,C,1.4394468066186699,0.58,148,85.78,Detergente Líquido,Detergente Líquido
+SKU_372,C,8.304467053511235,2.79,46,128.51,Sabão em Pó,Sabão em Pó
+SKU_373,B,15.517209102287502,4.26,42,178.99,Amaciante,Amaciante
+SKU_374,C,9.720393344146512,1.56,90,140.49,Desinfetante,Desinfetante
+SKU_375,C,2.2521816261445697,1.91,75,143.62,Desinfetante,Desinfetante
+SKU_376,B,35.166313960490285,4.3,45,193.38,Sabão em Pó,Sabão em Pó
+SKU_377,A,80.59640114322298,0.54,113,61.02,Detergente Líquido,Detergente Líquido
+SKU_378,C,4.844475333559644,3.37,58,195.67,Amaciante,Amaciante
+SKU_379,B,43.70850815028686,4.99,68,339.06,Água Sanitária,Água Sanitária
+SKU_380,C,2.461804628350775,0.59,102,59.9,Detergente Líquido,Detergente Líquido
+SKU_381,B,32.39766113731075,2.93,55,161.16,Sabão em Pó,Sabão em Pó
+SKU_382,B,40.22994537986599,4.74,61,288.95,Água Sanitária,Água Sanitária
+SKU_383,A,87.00051572226666,2.72,80,217.4,Água Sanitária,Água Sanitária
+SKU_384,C,9.773163602998963,0.58,133,76.98,Detergente Líquido,Detergente Líquido
+SKU_385,B,43.702956013709986,1.45,75,108.6,Desinfetante,Desinfetante
+SKU_386,C,7.390554000895318,0.51,112,57.43,Detergente Líquido,Detergente Líquido
+SKU_387,C,9.053279356456184,0.55,110,60.65,Limpador Multiuso,Limpador Multiuso
+SKU_388,C,8.189616629468105,1.7,82,139.55,Água Sanitária,Água Sanitária
+SKU_389,B,47.82995866999382,0.56,101,56.94,Detergente Líquido,Detergente Líquido
+SKU_390,C,3.7974518247333298,0.52,128,66.19,Detergente Líquido,Detergente Líquido
+SKU_391,C,7.074073578025043,0.59,147,87.05,Detergente Líquido,Detergente Líquido
+SKU_392,B,48.18014575797542,0.54,115,61.97,Detergente Líquido,Detergente Líquido
+SKU_393,B,48.67541493132255,0.55,107,58.89,Detergente Líquido,Detergente Líquido
+SKU_394,A,85.28303893065669,4.39,62,272.01,Sabão em Pó,Sabão em Pó
+SKU_395,C,8.587030831271306,0.63,87,54.65,Limpador Multiuso,Limpador Multiuso
+SKU_396,A,86.5860926748301,0.5,142,71.04,Detergente Líquido,Detergente Líquido
+SKU_397,C,7.037050638388157,3.14,69,216.79,Água Sanitária,Água Sanitária
+SKU_398,C,7.09881809269461,4.9,54,264.42,Amaciante,Amaciante
+SKU_399,C,8.730265963621704,2.09,72,150.19,Água Sanitária,Água Sanitária
+SKU_400,C,4.481176013372176,0.72,113,81.56,Limpador Multiuso,Limpador Multiuso
+SKU_401,A,71.70410958991567,1.47,68,99.66,Desinfetante,Desinfetante
+SKU_402,B,39.240499906634476,0.7,90,63.08,Limpador Multiuso,Limpador Multiuso
+SKU_403,C,3.237200377685487,1.98,64,126.42,Desinfetante,Desinfetante
+SKU_404,C,5.604318455798144,0.59,130,76.4,Detergente Líquido,Detergente Líquido
+SKU_405,A,92.88057710189761,1.63,63,102.56,Água Sanitária,Água Sanitária
+SKU_406,B,27.364501732107286,0.59,134,79.49,Detergente Líquido,Detergente Líquido
+SKU_407,C,3.656417996248516,1.47,89,130.9,Desinfetante,Desinfetante
+SKU_408,C,2.7968840058205333,0.7,96,67.34,Limpador Multiuso,Limpador Multiuso
+SKU_409,C,9.675484328322582,4.26,57,243.02,Amaciante,Amaciante
+SKU_410,A,69.51629914214456,0.72,120,86.7,Limpador Multiuso,Limpador Multiuso
+SKU_411,B,24.053194154934108,1.07,74,78.92,Desinfetante,Desinfetante
+SKU_412,A,74.2431344960558,2.88,55,158.19,Água Sanitária,Água Sanitária
+SKU_413,B,43.46680227751876,0.54,118,64.09,Limpador Multiuso,Limpador Multiuso
+SKU_414,C,3.5083215947089723,4.97,80,397.9,Sabão em Pó,Sabão em Pó
+SKU_415,A,96.90598403673522,0.91,86,78.66,Limpador Multiuso,Limpador Multiuso
+SKU_416,C,7.254815876934893,2.55,88,224.13,Água Sanitária,Água Sanitária
+SKU_417,C,7.315553974961827,1.09,70,76.0,Desinfetante,Desinfetante
+SKU_418,C,4.047001490530221,0.78,84,65.68,Limpador Multiuso,Limpador Multiuso
+SKU_419,A,50.22104960004918,0.76,85,64.46,Limpador Multiuso,Limpador Multiuso
+SKU_420,C,6.591314337051573,0.58,144,83.3,Detergente Líquido,Detergente Líquido
+SKU_421,B,36.60293326101275,2.43,48,116.64,Amaciante,Amaciante
+SKU_422,C,7.673629342732367,1.23,63,77.8,Desinfetante,Desinfetante
+SKU_423,C,6.660106589532585,4.59,42,192.76,Amaciante,Amaciante
+SKU_424,B,29.55548587897749,1.94,73,141.8,Sabão em Pó,Sabão em Pó
+SKU_425,C,1.9211619687965793,3.83,78,298.67,Sabão em Pó,Sabão em Pó
+SKU_426,C,6.325852524409996,0.7,114,79.26,Limpador Multiuso,Limpador Multiuso
+SKU_427,B,34.68259978473161,4.35,65,282.58,Amaciante,Amaciante
+SKU_428,B,43.05364802254593,2.24,80,179.13,Sabão em Pó,Sabão em Pó
+SKU_429,C,8.225094131419716,4.23,69,291.61,Amaciante,Amaciante
+SKU_430,B,18.108946005027864,2.47,76,187.62,Água Sanitária,Água Sanitária
+SKU_431,B,28.672841221257404,0.57,144,81.56,Detergente Líquido,Detergente Líquido
+SKU_432,C,7.134603657388438,2.57,66,169.78,Amaciante,Amaciante
+SKU_433,B,26.685767754861267,0.58,140,80.94,Detergente Líquido,Detergente Líquido
+SKU_434,C,1.0821424185500539,1.14,91,103.81,Desinfetante,Desinfetante
+SKU_435,A,68.70770225027519,2.4,53,127.3,Sabão em Pó,Sabão em Pó
+SKU_436,A,87.27003967910724,3.35,44,147.37,Amaciante,Amaciante
+SKU_437,C,2.073430811046403,2.32,61,141.44,Amaciante,Amaciante
+SKU_438,A,65.6606379401268,4.14,82,339.4,Água Sanitária,Água Sanitária
+SKU_439,B,19.22259943726,0.9,110,99.1,Limpador Multiuso,Limpador Multiuso
+SKU_440,B,18.618736077460134,1.49,48,71.46,Sabão em Pó,Sabão em Pó
+SKU_441,A,95.55212045464992,3.9,45,175.44,Amaciante,Amaciante
+SKU_442,C,7.476891682130179,4.62,66,305.2,Amaciante,Amaciante
+SKU_443,C,4.985819712416249,0.59,108,63.69,Detergente Líquido,Detergente Líquido
+SKU_444,B,29.602975248997826,0.59,105,62.2,Detergente Líquido,Detergente Líquido
+SKU_445,A,61.22874860083034,3.59,53,190.32,Sabão em Pó,Sabão em Pó
+SKU_446,B,13.235512124569905,0.98,118,116.19,Limpador Multiuso,Limpador Multiuso
+SKU_447,B,20.15059525787254,1.34,91,121.9,Desinfetante,Desinfetante
+SKU_448,C,6.725983758702233,4.0,53,212.06,Amaciante,Amaciante
+SKU_449,C,7.1661495614876465,4.73,59,279.0,Água Sanitária,Água Sanitária
+SKU_450,C,2.8208650305501357,3.21,54,173.17,Amaciante,Amaciante
+SKU_451,C,7.645595299024397,0.52,127,66.33,Detergente Líquido,Detergente Líquido
+SKU_452,B,14.10544161255987,1.81,81,146.99,Água Sanitária,Água Sanitária
+SKU_453,C,5.987885609856978,1.88,74,138.92,Desinfetante,Desinfetante
+SKU_454,B,17.661929953453406,2.71,66,179.09,Água Sanitária,Água Sanitária
+SKU_455,C,4.205713092964512,1.7,94,159.95,Desinfetante,Desinfetante
+SKU_456,A,62.23874227407547,0.68,115,78.29,Limpador Multiuso,Limpador Multiuso
+SKU_457,C,6.856382108395351,3.19,48,153.25,Amaciante,Amaciante
+SKU_458,C,9.128384428350556,1.39,82,113.72,Água Sanitária,Água Sanitária
+SKU_459,C,8.014258069640526,3.91,67,262.18,Sabão em Pó,Sabão em Pó
+SKU_460,C,6.755080575749666,0.56,102,57.49,Limpador Multiuso,Limpador Multiuso
+SKU_461,C,6.286451998440732,2.45,68,166.3,Amaciante,Amaciante
+SKU_462,B,45.79472443989372,1.38,69,94.95,Desinfetante,Desinfetante
+SKU_463,C,9.345761859947697,1.15,92,105.59,Desinfetante,Desinfetante
+SKU_464,C,5.507212025123479,1.65,92,151.59,Desinfetante,Desinfetante
+SKU_465,A,53.20136916180704,3.63,43,156.05,Sabão em Pó,Sabão em Pó
+SKU_466,A,60.63726563047621,0.53,150,78.75,Detergente Líquido,Detergente Líquido
+SKU_467,C,8.543792777702922,1.62,63,101.97,Desinfetante,Desinfetante
+SKU_468,C,5.189025306058808,0.52,106,55.41,Detergente Líquido,Detergente Líquido
+SKU_469,C,2.387043349696892,2.0,86,171.74,Desinfetante,Desinfetante
+SKU_470,C,7.328008495087603,0.56,115,64.26,Detergente Líquido,Detergente Líquido
+SKU_471,C,3.2874347531927577,0.62,101,62.45,Limpador Multiuso,Limpador Multiuso
+SKU_472,C,3.6306032043376124,3.8,72,273.93,Água Sanitária,Água Sanitária
+SKU_473,C,1.0194263064933877,4.12,79,325.72,Água Sanitária,Água Sanitária
+SKU_474,A,75.48350424735581,1.21,96,116.34,Desinfetante,Desinfetante
+SKU_475,C,9.762164203519331,3.91,66,258.07,Água Sanitária,Água Sanitária
+SKU_476,C,4.0395221504754595,2.64,66,174.04,Amaciante,Amaciante
+SKU_477,B,14.826362207865795,0.57,105,59.79,Limpador Multiuso,Limpador Multiuso
+SKU_478,B,10.17597470155791,0.94,85,80.3,Limpador Multiuso,Limpador Multiuso
+SKU_479,A,82.8834780176045,0.51,83,42.63,Limpador Multiuso,Limpador Multiuso
+SKU_480,A,83.75497115546361,0.5,136,68.38,Detergente Líquido,Detergente Líquido
+SKU_481,B,46.58939607256041,3.18,40,127.1,Amaciante,Amaciante
+SKU_482,C,1.037053197713552,0.5,138,69.19,Detergente Líquido,Detergente Líquido
+SKU_483,C,2.764161569336548,3.11,60,186.85,Água Sanitária,Água Sanitária
+SKU_484,A,85.29678112086913,3.24,62,200.96,Sabão em Pó,Sabão em Pó
+SKU_485,A,94.27371100568246,4.12,72,297.0,Sabão em Pó,Sabão em Pó
+SKU_486,A,60.826021557770616,3.21,55,176.62,Sabão em Pó,Sabão em Pó
+SKU_487,B,31.23858515510085,0.87,100,86.74,Limpador Multiuso,Limpador Multiuso
+SKU_488,C,8.038361206518212,4.95,85,420.86,Água Sanitária,Água Sanitária
+SKU_489,C,5.299671817954804,4.13,63,260.4,Amaciante,Amaciante
+SKU_490,A,96.91414208354516,1.58,93,146.68,Desinfetante,Desinfetante
+SKU_491,C,4.575056716904986,0.51,101,51.05,Detergente Líquido,Detergente Líquido
+SKU_492,B,25.74324635671593,0.6,89,53.51,Limpador Multiuso,Limpador Multiuso
+SKU_493,C,8.807788320557968,0.56,103,58.13,Detergente Líquido,Detergente Líquido
+SKU_494,B,24.364190148939006,4.72,63,297.47,Água Sanitária,Água Sanitária
+SKU_495,C,3.848397644968432,0.57,137,78.36,Detergente Líquido,Detergente Líquido
+SKU_496,A,65.9945067193093,0.57,113,64.25,Limpador Multiuso,Limpador Multiuso
+SKU_497,C,1.4862423437444896,2.39,56,133.98,Água Sanitária,Água Sanitária
+SKU_498,B,27.928791640935373,0.51,109,55.53,Detergente Líquido,Detergente Líquido
+SKU_499,C,3.4843368903621004,1.46,88,128.25,Água Sanitária,Água Sanitária
+SKU_500,C,4.822172364306103,4.98,53,263.99,Amaciante,Amaciante
