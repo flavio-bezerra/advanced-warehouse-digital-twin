@@ -1,0 +1,59 @@
+# Layout do Galpão - Advanced Warehouse Digital Twin
+
+Este documento descreve a estrutura física e lógica do armazém simulado neste projeto.
+
+## 📍 Visão Geral (Topologia)
+
+O armazém é modelado em um sistema de coordenadas 3D (X, Y, Z), onde:
+*   **X:** Representa a profundidade/corredores (da esquerda para a direita).
+*   **Y:** Representa o comprimento do corredor (frente para o fundo).
+*   **Z:** Representa a altura (níveis das prateleiras/racks).
+
+### 1. 🚛 Docas (Entrada e Expedição)
+As docas estão localizadas na extremidade direita do layout (**X = 30**), servindo como ponto focal para cálculo de distâncias e eficiência.
+
+*   **Localização:** X = 30
+*   **Posições (Y):** 0, 5, 10, 15, 20
+*   **Identificação:** DOCK_1 a DOCK_5
+
+### 2. 🛣️ Corredores Transversais (Cross Aisles)
+Existem corredores livres para a circulação de empilhadeiras e manobras, permitindo a troca de corredores de armazenagem.
+
+*   **Posições (Y):** 0, 10, 20
+*   Esses pontos permitem o cruzamento entre as ruas de armazenagem.
+
+### 3. 📦 Zonas de Armazenagem
+
+O galpão é dividido em duas zonas principais, baseadas no tipo de estrutura e equipamento necessário:
+
+#### Zona A - Racks (Paletadeiras)
+Destinada a cargas paletizadas e movimentação com empilhadeiras.
+
+*   **Corredores (Ruas):** R1, R2, R3
+*   **Posições X:** 10, 14, 18
+*   **Extensão (Y):** 0 a 20 (Corredor completo)
+*   **Altura (Z):** 5 níveis (1 a 5)
+
+#### Zona B - Shelving (Picking Manual)
+Destinada a itens menores ou fracionados (picking manual). Esta zona fica mais próxima das docas para facilitar a expedição rápida de itens leves.
+
+*   **Corredores (Ruas):** S1, S2, S3
+*   **Posições X:** 22, 24, 26
+*   **Extensão (Y):** 0 a 10 (Meio corredor, mais compacto)
+*   **Altura (Z):** 5 níveis (1 a 5)
+
+### 4. 🎯 Estratégia de Zoneamento (ABC)
+O sistema classifica automaticamente cada posição no armazém (Bin) com base na sua distância até a doca mais próxima. Isso orienta a estratégia de "Slotting" (alocação de produtos).
+
+*   **🥇 Zona Gold (Distância < 10m):**
+    *   Áreas mais nobres, muito próximas das docas.
+    *   Geralmente inclui a Zona B (Shelving) e o início dos Racks mais próximos.
+    *   Destinada a produtos de **Curva A** (Alto Giro).
+
+*   **🥈 Zona Silver (10m <= Distância < 18m):**
+    *   Áreas intermediárias.
+    *   Destinada a produtos de **Curva B** (Médio Giro).
+
+*   **🥉 Zona Bronze (Distância >= 18m):**
+    *   Áreas mais distantes (fundo do armazém ou corredores mais à esquerda).
+    *   Destinada a produtos de **Curva C** (Baixo Giro) ou estoque de segurança.
