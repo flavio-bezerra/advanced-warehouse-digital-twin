@@ -13,13 +13,14 @@ O simulador foi calibrado para refletir a realidade de um Centro de Distribuiç�
 ## 🚀 Funcionalidades Principais
 
 ### 1. 🧴 Inteligência de Produtos (Cleaning Products)
+![Visão Galpão](desenho_isometrico_galpao.png)
 
 * **Dados Realistas:** O sistema gera SKUs baseados em categorias reais de limpeza (Detergente Líquido, Sabão em Pó, Amaciante, etc.).
 * **Física do Produto:** Cada item possui peso (kg) e fator de paletização (`units_per_pallet`) realistas.
 * **Lógica "Pallet In / Box Out":**
   * **Entrada:** O sistema simula o recebimento de paletes fechados para armazenagem.
   * **Saída:** O picking é feito em caixas (unidades de despacho), simulando a quebra do palete para montagem de cargas mistas.
-
+  
 ### 2. 🎮 Como Funciona a Simulação (Estratégia)
 
 Imagine o armazém como um tabuleiro vivo onde cada movimento custa tempo e dinheiro.
